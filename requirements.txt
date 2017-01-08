@@ -1,0 +1,2 @@
+nltk>=3.0
+treetaggerwrapper>=2.2.4
