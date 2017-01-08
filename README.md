@@ -6,17 +6,18 @@ initiatives and try to speculate on the future initiatives contents.
 
 
 
-## Contribute
+## Run it
 
 This project uses mainly `python` in version 3.
 The easiest way to have every required libraries is to use a virtual
 environment:
 
 * Install `virtualenv` if necessary.
-* Set up a virtual environment: `virtualenv -p python env` (replace `python`
-with `python3` if `python 3` is not your default `python` version).
+* Set up a virtual environment: `virtualenv -p python3 env`.
 * Activate it: `source env/bin/activate`.
 * Install the required libraries using `pip`:
 	`pip install -r requirements.txt`
-* If you do not need to tweak anything, simply run the application:
+* Install the TreeTagger following instructions at [its website](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+* Update the config.conf file, particularly the 'tagdir' value to set the path to the tree-tagger installation folder.
+* Once everything is done, simply run the application:
   `python run.py`
