@@ -18,6 +18,8 @@ environment:
 * Install the required libraries using `pip`:
 	`pip install -r requirements.txt`
 * Install the TreeTagger following instructions at [its website](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
-* Update the config.conf file, particularly the 'tagdir' value to set the path to the tree-tagger installation folder.
+* Copy the config.conf.example in a file named config.conf and update it to suit
+your needs, particularly the 'tagdir' value to set the path to the tree-tagger
+installation folder, which is a setting that will not work 'as is'.
 * Once everything is done, simply run the application:
   `python run.py`
