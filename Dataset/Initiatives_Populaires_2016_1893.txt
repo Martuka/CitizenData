@@ -497,8 +497,7 @@ Sous réserve de rares exceptions concernant la mère, l'interruption de grosses
 Pour une élection du Conseil fédéral par le peuple
 
 Ils peuvent prendre part à l’élection du Conseil fédéral, à l’élection du Conseil national et aux votations fédérales, lancer des initiatives populaires et des demandes de référendum en matière fédérale et les signer.
-L’Assemblée fédérale élit le chancelier ou la chancelière de la Confédération, les juges au Tribunal fédéral et le général. Les membres du Conseil fédéral sont élus par le peuple au suffrage direct selon le système majoritaire. Ils sont choisis parmi les citoyens et citoyennes suisses éligibles au Conseil national. Le Conseil fédéral est renouvelé intégralement tous les quatre ans, en même temps que le Conseil national. Les sièges vacants sont pourvus au moyen d’une élection de remplacement. La Suisse forme une seule circonscription électorale. Les candidats qui obtiennent la majorité absolue sont élus au premier tour. Celle-ci se calcule en divisant le nombre de suffrages valables obtenus par l’ensemble des candidats par le nombre de sièges à pourvoir, puis en divisant le quotient par deux; la majorité absolue est égale à l’entier supérieur. Si un nombre insuffisant de candidats est élu, un deuxième tour est organisé. Celui-ci se déroule à la majorité simple. En cas d’égalité des voix, les candidats sont départagés par tirage au sort.
-Le Conseil fédéral doit être composé d’au moins deux citoyens domiciliés dans les cantons du Tessin, de Vaud, de Neuchâtel, de Genève ou du Jura, dans les régions francophones du canton de Berne, de Fribourg ou du Valais ou dans les régions italophones du canton des Grisons. Si la composition du Conseil fédéral issue des urnes selon les règles de l’al. 4 ne respecte pas la règle visée à l’al. 5, les candidats domiciliés dans les cantons et les régions visés à l’al. 5 qui ont obtenu la moyenne géométrique la plus élevée sur la base des suffrages obtenus dans l’ensemble de la Suisse, d’une part, et dans les cantons et les régions visés à l’al. 5, d’autre part, sont élus. Les candidats élus aux termes de l’al. 4 qui ne sont pas domiciliés dans les cantons et les régions visés à l’al. 5 et qui ont obtenu le moins de voix sont éliminés.
+L’Assemblée fédérale élit le chancelier ou la chancelière de la Confédération, les juges au Tribunal fédéral et le général. Les membres du Conseil fédéral sont élus par le peuple au suffrage direct selon le système majoritaire. Ils sont choisis parmi les citoyens et citoyennes suisses éligibles au Conseil national. Le Conseil fédéral est renouvelé intégralement tous les quatre ans, en même temps que le Conseil national. Les sièges vacants sont pourvus au moyen d’une élection de remplacement. La Suisse forme une seule circonscription électorale. Les candidats qui obtiennent la majorité absolue sont élus au premier tour. Celle-ci se calcule en divisant le nombre de suffrages valables obtenus par l’ensemble des candidats par le nombre de sièges à pourvoir, puis en divisant le quotient par deux; la majorité absolue est égale à l’entier supérieur. Si un nombre insuffisant de candidats est élu, un deuxième tour est organisé. Celui-ci se déroule à la majorité simple. En cas d’égalité des voix, les candidats sont départagés par tirage au sort. Le Conseil fédéral doit être composé d’au moins deux citoyens domiciliés dans les cantons du Tessin, de Vaud, de Neuchâtel, de Genève ou du Jura, dans les régions francophones du canton de Berne, de Fribourg ou du Valais ou dans les régions italophones du canton des Grisons. Si la composition du Conseil fédéral issue des urnes selon les règles de l’al. 4 ne respecte pas la règle visée à l’al. 5, les candidats domiciliés dans les cantons et les régions visés à l’al. 5 qui ont obtenu la moyenne géométrique la plus élevée sur la base des suffrages obtenus dans l’ensemble de la Suisse, d’une part, et dans les cantons et les régions visés à l’al. 5, d’autre part, sont élus. Les candidats élus aux termes de l’al. 4 qui ne sont pas domiciliés dans les cantons et les régions visés à l’al. 5 et qui ont obtenu le moins de voix sont éliminés.
 
 #2013
 Pour des déductions fiscales aussi pour les parents qui gardent eux-mêmes leurs enfants
@@ -519,20 +518,18 @@ Mesure consécutive aux infractions sexuelles sur des enfants, des personnes inc
 #2013
 Pour des salaires équitables
 
-Le salaire le plus élevé versé par une entreprise ne peut être plus de douze fois supérieur au salaire le plus bas versé par la même entreprise. Par salaire, on entend la somme des prestations en espèces et en nature (argent et valeur des prestations en nature ou en services) versées en relation avec une activité lucrative.
+Le salaire le plus élevé versé par une entreprise ne peut être plus de douze fois supérieur au salaire le plus bas versé par la même entreprise. Par salaire, on entend la somme des prestations en espèces et en nature versées en relation avec une activité lucrative.
 
 #2013
 Pour la médecine de famille
 
-Médecine de famille. Dans les limites de leurs compétences respectives, la Confédération et les cantons veillent à ce que la population dispose d’une offre de soins médicaux suffisante, accessible à tous, complète et de haute qualité fournie par des médecins de famille.
-Ils encouragent la médecine de famille et veillent à ce qu’elle reste une composante essentielle des prestations de soins de base et constitue, en règle générale, la médecine de premier recours pour le traitement des maladies et des accidents et pour les questions d’éducation sanitaire et de prophylaxie.
+Médecine de famille. Dans les limites de leurs compétences respectives, la Confédération et les cantons veillent à ce que la population dispose d’une offre de soins médicaux suffisante, accessible à tous, complète et de haute qualité fournie par des médecins de famille. Ils encouragent la médecine de famille et veillent à ce qu’elle reste une composante essentielle des prestations de soins de base et constitue, en règle générale, la médecine de premier recours pour le traitement des maladies et des accidents et pour les questions d’éducation sanitaire et de prophylaxie.
 Ils œuvrent à l’établissement d’une répartition équilibrée des médecins de famille entre les régions, créent des conditions propices à l’exercice de la médecine de famille et encouragent la collaboration avec les autres prestataires et institutions du domaine de la santé et du domaine social.
 
 #2010
 Pour 68 milliards pour la sécurité sociale
 
-Financement additionnel de l’assurance-vieillesse et survivants, de l’assurance-invalidité, de l’assurance perte de gain et de l’assurance-chômage
-En complément du financement fourni jusqu'ici, la Confédération libère 68 milliards de francs destinés à la couverture des prestations de l’assurance-vieillesse et survivants, de l’assurance-invalidité, de l’assurance perte de gain et de l’assurance-chômage. Le financement additionnel peut prendre notamment les formes suivantes : prestation unique ou périodique de la Confédération ou de la Banque nationale suisse; prêt de la Confédération ou de la Banque nationale suisse; participation de la Confédération ou de la Banque nationale suisse à une société à but spécial à laquelle des actifs du Fonds de compensation AVS seront transférés à titre temporaire, ou octroi d’un prêt à une société à but spécial par la Confédération ou la Banque nationale suisse.
+Financement additionnel de l’assurance-vieillesse et survivants, de l’assurance-invalidité, de l’assurance perte de gain et de l’assurance-chômage. En complément du financement fourni jusqu'ici, la Confédération libère 68 milliards de francs destinés à la couverture des prestations de l’assurance-vieillesse et survivants, de l’assurance-invalidité, de l’assurance perte de gain et de l’assurance-chômage. Le financement additionnel peut prendre notamment les formes suivantes : prestation unique ou périodique de la Confédération ou de la Banque nationale suisse; prêt de la Confédération ou de la Banque nationale suisse; participation de la Confédération ou de la Banque nationale suisse à une société à but spécial à laquelle des actifs du Fonds de compensation AVS seront transférés à titre temporaire, ou octroi d’un prêt à une société à but spécial par la Confédération ou la Banque nationale suisse.
 
 #2012
 Contre le tabagisme passif
@@ -542,7 +539,7 @@ Protection contre le tabagisme passif. La Confédération légifère pour proté
 #2010
 Pour le secret bancaire dans la Constitution fédérale
 
-Protection de la sphère privée et garantie du secret bancaire. Toute personne a droit au respect du secret sur ses relations d’affaires avec les banques autorisées à exercer leur activité en Suisse. Aucune information ne peut être transmise à une autorité étrangère ou à une autorité fédérale non liée par le secret bancaire sans le consentement du détenteur du secret. Le secret bancaire ne couvre pas les activités criminelles telles que le terrorisme, la criminalité organisée et le blanchiment d’argent. La Suisse accorde l’entraide judicaire à une autorité étrangère si l’activité poursuivie est punissable en Suisse et dans l’Etat requérant.
+Protection de la sphère privée et garantie du secret bancaire. Toute personne a droit au respect du secret sur ses relations d’affaires avec les banques autorisées à exercer leur activité en Suisse. Aucune information ne peut être transmise à une autorité étrangère ou à une autorité fédérale non liée par le secret bancaire sans le consentement du détenteur du secret. Le secret bancaire ne couvre pas les activités criminelles telles que le terrorisme, la criminalité organisée et le blanchiment d’argent. La Suisse accorde l’entraide judiciaire à une autorité étrangère si l’activité poursuivie est punissable en Suisse et dans l’Etat requérant.
 La loi prévoit des mesures en vue d’éviter que la garantie du secret bancaire ne soit éludée aux fins d’enquête fiscale. L’autorité judiciaire peut modifier la qualification de l’infraction proposée par l’Etat requérant.
 
 #2013
@@ -553,7 +550,7 @@ Transports publics. La Confédération et les cantons encouragent dans toutes le
 #2011
 Contre de nouveaux avions de combat
 
-Jusqu’au 31 décembre 2019, la Confédération ne peut acquérir de nouveaux avions de combat. Sont réputés nouveaux les avions de combat dont l’acquisition a lieu entre le 1er janvier 2010 et le 31 décembre 2019.
+La Confédération ne peut acquérir de nouveaux avions de combat. Sont réputés nouveaux les avions de combat dont l’acquisition a lieu entre 2010 et 2019.
 
 #2011
 Pour des jeux d'argent au service du bien commun
@@ -573,10 +570,7 @@ Tous les travailleurs ont droit à des vacances payées de six semaines par an a
 #2011
 Pour la protection face à la violence des armes
 
-Matériel de guerre. La Confédération édicte des prescriptions contre l’usage abusif d’armes, d’accessoires d’armes et de munitions. A cet effet, elle règle l'acquisition, la possession, le port, l'usage et la remise d’armes, d’accessoires d’armes et de munitions. Quiconque entend acquérir, posséder, porter, utiliser ou mettre une arme à feu ou des munitions doit justifier d'un besoin et disposer des capacités nécessaires. La loi règle les exigences et les détails, en particulier pour les professions dont l'exercice impose de disposer d'une arme; le commerce d'armes à titre professionnel; le tir sportif; la chasse; les collections d'armes.
-Nul ne peut acquérir ni posséder à des fins privées une arme particulièrement dangereuse telle qu'une arme à feu automatique ou un fusil à pompe.
-La législation militaire règle l'utilisation d'armes par les militaires. En dehors des périodes de service militaire, l'arme à feu des militaires est conservée dans des locaux sécurisés de l'armée. Aucune arme à feu n'est remise aux militaires qui quittent l'armée. La loi règle les exceptions, notamment pour les tireurs sportifs titulaires d'une licence.
-La Confédération tient un registre des armes à feu. Elle appuie les cantons dans l'organisation de collectes d'armes à feu. Elle œuvre au niveau international afin de limiter la disponibilité des armes légères et de petit calibre.
+Matériel de guerre. La Confédération édicte des prescriptions contre l’usage abusif d’armes, d’accessoires d’armes et de munitions. A cet effet, elle règle l'acquisition, la possession, le port, l'usage et la remise d’armes, d’accessoires d’armes et de munitions. Quiconque entend acquérir, posséder, porter, utiliser ou mettre une arme à feu ou des munitions doit justifier d'un besoin et disposer des capacités nécessaires. La loi règle les exigences et les détails, en particulier pour les professions dont l'exercice impose de disposer d'une arme; le commerce d'armes à titre professionnel; le tir sportif; la chasse; les collections d'armes. Nul ne peut acquérir ni posséder à des fins privées une arme particulièrement dangereuse telle qu'une arme à feu automatique ou un fusil à pompe. La législation militaire règle l'utilisation d'armes par les militaires. En dehors des périodes de service militaire, l'arme à feu des militaires est conservée dans des locaux sécurisés de l'armée. Aucune arme à feu n'est remise aux militaires qui quittent l'armée. La loi règle les exceptions, notamment pour les tireurs sportifs titulaires d'une licence. La Confédération tient un registre des armes à feu. Elle appuie les cantons dans l'organisation de collectes d'armes à feu. Elle œuvre au niveau international afin de limiter la disponibilité des armes légères et de petit calibre.
 
 #2009
 Pour la liberté d’expression – Contre les muselières
@@ -597,12 +591,10 @@ La Confédération et les cantons encouragent l’acquisition d’un logement à
 #2010
 Pour le renvoi des étrangers criminels
 
-Les étrangers sont privés de leur titre de séjour, indépendamment de leur statut, et de tous leurs droits à séjourner en Suisse s’ils ont été condamnés par un jugement entré en force pour meurtre, viol, ou tout autre délit sexuel grave, pour un acte de violence d’une autre nature tel que le brigandage, la traite d’êtres humains, le trafic de drogue ou l’effraction; ou s’ils ont perçu abusivement des prestations des assurances sociales ou de l’aide sociale.
-Le législateur précise les faits constitutifs des infractions visées à l’al. 3. Il peut les compléter par d’autres faits constitutifs. Les étrangers qui, en vertu des al. 3 et 4, sont privés de leur titre de séjour et de tous leurs droits à séjourner en Suisse doivent être expulsés du pays par les autorités compétentes et frappés d’une interdiction d’entrer sur le territoire allant de 5 à 15 ans. En cas de récidive, l’interdiction d’entrer sur le territoire sera fixée à 20 ans.
-Les étrangers qui contreviennent à l’interdiction d’entrer sur le territoire ou qui y entrent illégalement de quelque manière que ce soit sont punissables. Le législateur édicte les dispositions correspondantes.
+Les étrangers sont privés de leur titre de séjour, indépendamment de leur statut, et de tous leurs droits à séjourner en Suisse s’ils ont été condamnés par un jugement entré en force pour meurtre, viol, ou tout autre délit sexuel grave, pour un acte de violence d’une autre nature tel que le brigandage, la traite d’êtres humains, le trafic de drogue ou l’effraction; ou s’ils ont perçu abusivement des prestations des assurances sociales ou de l’aide sociale. Le législateur précise les faits constitutifs des infractions visées à l’al. 3. Il peut les compléter par d’autres faits constitutifs. Les étrangers qui, en vertu des al. 3 et 4, sont privés de leur titre de séjour et de tous leurs droits à séjourner en Suisse doivent être expulsés du pays par les autorités compétentes et frappés d’une interdiction d’entrer sur le territoire allant de 5 à 15 ans. En cas de récidive, l’interdiction d’entrer sur le territoire sera fixée à 20 ans. Les étrangers qui contreviennent à l’interdiction d’entrer sur le territoire ou qui y entrent illégalement de quelque manière que ce soit sont punissables. Le législateur édicte les dispositions correspondantes.
 
 #2013
-Pour de l’espace pour l’homme et la nature — Pour le paysage
+Pour l’espace pour l’homme et la nature — Pour le paysage
 
 Aménagement du territoire. La Confédération et les cantons veillent à l'utilisation judicieuse et mesurée du sol, à l'occupation rationnelle du territoire, à la séparation entre le territoire constructible et le territoire non constructible et à la protection des terres cultivables. Ils prennent en considération les impératifs de l’aménagement du territoire dans l’accomplissement de leurs tâches. La Confédération fixe les principes applicables à l'aménagement du territoire. Elle édicte des dispositions visant notamment à développer une urbanisation de qualité à l’intérieur du tissu bâti et à restreindre la construction dans le territoire non constructible. Elle encourage et coordonne l'aménagement du territoire des cantons.
 
@@ -650,9 +642,7 @@ En vue de protéger l'économie, la propriété privée et les actionnaires et d
 #2009
 Pour l'interdiction d'exporter du matériel de guerre
 
-La Confédération soutient et encourage les efforts internationaux en vue du désarmement et du contrôle des armements. Sont interdits l’exportation et le transit de matériel de guerre, y compris des armes légères et des armes de petit calibre, ainsi que de leurs munitions; de biens militaires spéciaux; de biens immatériels, y compris des technologies, essentiels au développement, à la fabrication ou à l’exploitation des biens visés aux let. a et b, sauf s’ils sont accessibles au public ou servent à la recherche scientifique fondamentale.
-Ne tombent pas sous le coup de l’interdiction de l’exportation et du transit les appareils servant au déminage humanitaire ni les armes de sport et les armes de chasse qui sont incontestablement reconnaissables comme telles et qui, dans la même exécution, ne sont pas également des armes de combat, ainsi que leurs munitions.
-Ne tombe pas sous le coup de l’interdiction d’exporter l’exportation, par les autorités de la Confédération, des cantons ou des communes, des biens visés à l’al. 1 à condition qu’ils demeurent leur propriété, qu’ils soient utilisés par leur propre personnel, puis rapatriés en fin de mission. Le courtage et le commerce des biens visés sont interdits lorsque leur destinataire a son siège ou son domicile à l’étranger.
+La Confédération soutient et encourage les efforts internationaux en vue du désarmement et du contrôle des armements. Sont interdits l’exportation et le transit de matériel de guerre, y compris des armes légères et des armes de petit calibre, ainsi que de leurs munitions; de biens militaires spéciaux; de biens immatériels, y compris des technologies, essentiels au développement, à la fabrication ou à l’exploitation des biens visés aux let. a et b, sauf s’ils sont accessibles au public ou servent à la recherche scientifique fondamentale. Ne tombent pas sous le coup de l’interdiction de l’exportation et du transit les appareils servant au déminage humanitaire ni les armes de sport et les armes de chasse qui sont incontestablement reconnaissables comme telles et qui, dans la même exécution, ne sont pas également des armes de combat, ainsi que leurs munitions. Ne tombe pas sous le coup de l’interdiction d’exporter l’exportation, par les autorités de la Confédération, des cantons ou des communes, des biens visés à l’al. 1 à condition qu’ils demeurent leur propriété, qu’ils soient utilisés par leur propre personnel, puis rapatriés en fin de mission. Le courtage et le commerce des biens visés sont interdits lorsque leur destinataire a son siège ou son domicile à l’étranger.
 
 #2012
 Pour en finir avec les constructions envahissantes de résidences secondaires
@@ -1664,3 +1654,593 @@ L'homme et la femme sont égaux en droits. L'homme et la femme ont les mêmes dr
 Pour la séparation complète de l'Etat et de l'Eglise
 
 L'Eglise et l'Etat sont complètement séparés.
+
+#1979
+Pour les droits populaires et de la sécurité lors de la constructions et de l'exploitation d'installations atomiques
+
+Les centrales atomiques et les installations de production, de traitement et de stockage de combustibles nucléaires et de déchets radioactifs (ci-après: installations atomiques) doivent faire l'objet d'une concession. Il en va de même pour les agrandissements d'installations existantes. La durée de la concession pour les centrales atomiques s'étend à 25 ans au plus. Elle peut être prolongée en renouvelant la procédure. L'Assemblée fédérale est compétente pour l'octroi de la concession. L'octroi d'une concession est subordonné à l'accord des électeurs de l'ensemble de la commune de site et des communes adjacentes, ainsi qu'à l'accord des électeurs de chacun des cantons dont le territoire n'est pas éloigné de plus de 30 km de l'installation atomique. La concession pour une installation atomique ne peut être accordée que si sont garanties la protection de l'homme et de l'environnement, et la surveillance du site jusqu'à l'élimination de toutes sources de danger. Les mesures en vue de la protection de la population, notamment en cas de catastrophes, doivent être rendues publiques au moins 6 mois avant la première votation. Si la protection de l'homme et de l'environnement l'exige, l'Assemblée fédérale doit ordonner sans dédommagement l'arrêt provisoire ou définitif d'exploitation de l'installation ou sa suppression.
+Le détenteur de la concession est responsable pour tout dommage causé par l'exploitation ou l'élimination de l'installation, par des combustibles nucléaires qui lui sont destinés ou par des déchets radioactifs qui en proviennent. De même, celui qui transporte des combustibles nucléaires ou des déchets radioactifs est responsable pour tout dommage qui en résulte. Les créances des lésés envers le responsable et l'assurance sont prescrites au plus tôt 90 ans après l'événement cause du dommage. Il appartient au législateur de prévoir, par des prescriptions légales, une couverture suffisante de l'assurance-responsabilité civile obligatoire pour faire face aux créances de tous les lésés. Il crée également un fonds, auquel les personnes astreintes à s'assurer versent des contributions pour compenser les frais éventuellement non couverts. En ce qui concerne les installations atomiques limitrophes, la Confédération prend toute mesure utile pour garantir la protection de l'homme et de l'environnement des deux côtés de la frontière. Ont également un droit de recours les communes et cantons concernés selon l'al. 4, lors d'atteinte aux présentes dispositions constitutionnelles et aux dispositions d'applications en découlant.
+
+#1979
+Contre la publicité pour des produits qui engendrent la dépendance
+
+Toute publicité pour le tabac, ses succédanés et les boissons alcooliques est interdite. Une autorité fédérale peut accorder une exception pour des publications étrangères n'ayant en Suisse qu'une diffusion insignifiante.
+
+#1977
+Pour l'avortement
+
+L'interruption de la grossesse n'est pas punissable lorsqu'elle est pratiquée par un médecin autorisé à exercer sa profession, dans les douze semaines après le début des dernières règles et avec le consentement écrit de la femme. Le libre choix du médecin est garanti. La Confédération prend, avec la collaboration des cantons, les mesures nécessaires pour protéger la femme enceinte et encourager la planification familiale.
+
+#1979
+Contre le bruit des routes
+
+La Confédération assure par voie législative que le bruit des véhicules à moteur n'a pas d'effets nocifs et ne cause pas d'atteintes incommodantes excessives à des tiers. Les prescriptions déterminantes seront renforcées périodiquement jusqu'à ce que ce but soit atteint. Elles devront prévoir au minimum que la valeur limite de bruit, pour l'ensemble d'une catégorie de véhicules, doit correspondre à l'intensité du bruit provoqué par les véhicules les moins bruyants qui existent sur le marché, après une période transitoire convenable. Si l'on peut raisonnablement envisager des progrès techniques permettant de réduire davantage, dans un certain délai, la valeur limite de bruit, les prescriptions devront être renforcées dans ce sens. Le respect des dispositions prévues sera assuré par un contrôle régulier de tous les véhicules.
+
+#1978
+Pour douze dimanches par année sans véhicules à moteur ni avions
+
+Le deuxième dimanche de chaque mois, toute circulation privée utilisant un moteur (inclus véhicules avec moteur auxiliaire) est défendue, sur terre, sur l'eau et dans l'air sur tout le territoire suisse et cela du dimanche 03.00 heures au lundi 03.00 heures. Le Conseil fédéral définit les dérogations à cette interdiction en ce qui concerne l'autorisation d'utiliser un véhicule privé à moteur et l'ajournement temporaire de cette interdiction.
+
+#1977
+Contre la vie chère et l'inflation
+
+La Confédération assure, avec la collaboration des cantons, un développement de l'économie nationale conforme aux nécessités d'ordre social et aux exigences de la protection de l'environnement. Elle veille à prévenir les phénomènes de crise de toute nature et à combattre leurs effets, principalement le renchérissement et le chômage. Elle assure en particulier la sécurité de l'emploi, le droit au logement, une sécurité sociale généralisées et complète, l'existence d'une agriculture, d'un artisanat et d'un petit commerce sains. A cet effet, le Confédération prend notamment les mesures suivantes, en dérogeant s'il le faut au principe de la liberté du commerce et de l'industrie: Elle procède au contrôle général des prix, de la marge de profit, des loyers et des investissements, ainsi que du commerce extérieur et des échanges de capitaux avec l'étranger; Elle prend toutes dispositions utiles pour limiter efficacement la puissance des cartels et des trusts; elle empêche la formation de monopoles privés et autres groupements analogues; elle peut, si l'intérêt général l'exige, décider la nationalisation de ceux d'entre eux qui se sont constitués, cette mesure étant exclue pour les petites et moyennes entreprises; Elle institue dans le domaine fiscal une imposition fortement progressive des grandes concentrations économiques, des plus gros revenus et des plus grosses fortunes; elle empêche l'évasion de la matière fiscale, la fraude et toutes les formes de spéculation.
+
+#1978
+Pour l’abaissement de l'âge donnant droit aux prestations de l'AVS
+
+Ont droit à une rente simple les hommes qui ont 60 ans révolus et les femmes qui ont 58 ans révolus. A droit à une rente pour couple l'homme qui a 60 ans révolus, si son épouse a atteint l'âge de 58 ans ou si elle est invalide à raison de 50 pour cent au moins.
+
+#1977
+Contre la pollution atmosphérique causée par les véhicules à moteur
+
+Afin de lutter contre la pollution de l'air : En Suisse, seuls peuvent être vendus ou mis en circulation à partir du 1er janvier 1977, les véhicules neufs à moteur à essence dont les gaz d'échappement ont une teneur en substances nocives ne dépassant pas les limites ci-après:  7.00 grammes d'oxyde de carbone par véhicule et kilomètre parcouru; 0.35 grammes d'hydrocarbures par véhicule et kilomètre parcouru; 0.60 grammes d'oxyde d'azote par véhicule et kilomètre parcouru. Les constructeurs doivent garantir que leurs véhicules resteront, pendant toute la durée de marche, conformes à ces prescriptions, pourvu que ces véhicules et leurs moteurs soient entretenus et exploités correctement. Pour fixer la durée d'un tel moteur, on prendra 100 000 kilomètres pour base. A partir du 1er janvier 1978, les véhicules à moteur à essence déjà utilisés et immatriculés en Suisse devront être équipés de manière que la teneur en substances nocives des gaz d'échappement puisse être réduite au minimum selon les moyens techniques disponibles après 1976. Tous les véhicules pourvus d'un moteur Diesel et nouvellement mis en circulation seront soumis à des dispositions limitant l'émission d'hydrocarbures, d'oxyde de carbone et d'azote. Les dispositions limitant l'émission de fumée par les véhicules à moteur Diesel et les mesures de contrôle prises à cet égard seront progressivement rendues plus sévères à partir du 1er janvier 1976 pour tous les véhicules suisses ou étrangers à moteur Diesel circulant dans le pays. Les motocyclettes et bicyclettes à moteur seront soumises à des limites quantitatives d'émission.
+
+#1978
+Pour la démocratie dans la construction des routes nationales
+
+L'Assemblée fédérale arrête la conception, le tracé et l'exécution des routes nationales. Les arrêtés qu'elle prend sont soumis à l'acceptation ou au rejet du peuple si 30 000 électeurs ou huit cantons demandent le référendum.
+
+#1977
+Pour un impôt sur la richesse
+
+L'imposition du revenu et de la fortune est assurée: par des impôts directs des cantons et des communes sur le revenu et la fortune des personnes physiques et de celles des personnes morales dont l'imposition, en vertu de la législation fédérale, reste de la compétence des cantons et des communes; par un impôt fédéral direct sur le revenu des personnes physiques. La Confédération veille à ce que les revenus de plus de 100'000 francs soient frappés d'un impôt minimum uniforme dans toute la Suisse; par un impôt fédéral direct sur le rendement net, le capital et les réserves des personnes morales. En vue d'harmoniser les impôts directs de la Confédération, des cantons et des communes, la Confédération édicte, par la voie législative, des dispositions uniformes sur l'assujettissement, l'objet de l'impôt, les modalités temporelles de son calcul, la procédure ainsi que le droit pénal fiscal; il sera tenu compte de manière appropriée des mesures d'harmonisation prises par les cantons.
+
+#1976
+Contre le renchérissement
+
+La Confédération constitue un Fonds de solidarité fédéral destiné à la lutte contre le renchérissement. Pour la gestion de ce Fonds, le Conseil fédéral nomme un conseil de direction composé de 13 membres, qui représentent de façon équitable les organisations économiques concernées. Le président, les deux vice-présidents et les dix membres sont élus chaque fois pour une période de quatre ans. Le capital du Fonds doit servir à financer des mesures visant à stabiliser les prix des loyers et des biens et services vitaux. Ces mesures comportent notamment. L'octroi de prêts aux propriétaires fonciers pour faciliter la construction de nouveaux immeubles locatifs comprenant des appartements à prix modérés et des logements pour personnes âgées. Ces prêts peuvent être accordés jusqu'à concurrence de 100% de la valeur marchande des unités de logement et doivent être concédés à des conditions qui empêchent la hausse des loyers dans ces immeubles. L'octroi de prêts amortissables, jusqu'à concurrence de 100% de la valeur marchande, aux personnes physiques désireuses d'acquérir un appartement en propriété privée à un prix avantageux pour leur propre usage. Le taux d'intérêt de ces prêts doit être fixé de telle façon que le total des prestations sans amortissements ne dépasse pas le loyer que l'on pourrait exiger pour un appartement locatif équivalent. L'octroi de prêts amortissables, concédés à un taux d'intérêt avantageux, pour des villas à prix modérés, des exploitations agricoles, de même que pour l'amélioration des conditions de logement dans les régions de montagne. L'octroi de prêts à un taux d'intérêt avantageux pour la construction d'hôpitaux, d'asiles de gériatrie et de logements pour personnes âgées, pour autant qu'ils soient édifiés et exploités dans un but d'intérêt commun.
+L'octroi de prêts sans intérêts aux foyers pour malades, pour autant qu'ils soient édifiés et exploités dans un but d'intérêt commun. L'octroi de prêts à un taux d'intérêt avantageux aux cantons et aux communes dans le but de faciliter les travaux d'aménagement du territoire et les autres tâches relatives à l'infrastructure, pour autant que celles-ci répondent à un besoin public urgent. L'octroi de prêts à intérêts avantageux pour l'acquisition de biens ou de droits fonciers en échange d'une promesse de construction de logements à loyers modérés. L'acquisition de bien-fonds pour le compte du Fonds dans le but d'exclure la spéculation foncière et d'encourager les projets d'urbanisation à grande échelle tout en tenant compte des objectifs d'aménagement du territoire. Les capitaux du Fonds ne peuvent en aucun cas être utilisés pour les villas de luxe, les appartements de luxe et les résidences secondaires.
+
+#1976
+Pour la réforme fiscale
+
+Le revenu et la fortune seront exclusivement imposés selon des bases et des taux uniformes, conformément aux directives ci-après: Le revenu des personnes physiques est imposé selon un barème progressif. Le taux de l'impôt croît de manière constante avec l'augmentation du revenu. Les effets du renchérissement sur la progression doivent être supprimés périodiquement. L'imposition de la famille doit être réglée de façon à éviter une charge exagérée du revenu du travail de l'épouse. Les revenus provenant des rentes (AVS, AI) ne sont imposés que pour la moitié. L'imposition du revenu des personnes morales, quelle que soit leur forme juridique, est proportionnelle au bénéfice non distribué. L'imposition de la fortune, du capital et des réserves n'a qu'un caractère complémentaire. Les privilèges fiscaux qui subsistent doivent être supprimés.
+Les cantons perçoivent pour le compte de la Confédération l'impôt fédéral général sur le revenu et la fortune. Une partie du produit brut de cet impôt reviendra aux cantons de manière à leur permettre de faire face dans une large mesure à leurs besoins financiers. Une partie du produit de l'impôt fédéral doit être affectée à la péréquation financière. Celle-ci sera aménagée de manière à pouvoir rapprocher les charges fiscales totales des cantons. L'uniformité des bases et des taux est également obligatoire pour les impôts cantonaux et communaux sur le revenu et la fortune. Ceux-ci seront prélevés en pour cent de l'impôt fédéral, dans des limites fixées de manière uniforme. La Confédération édicte des dispositions uniformes concernant le prélèvement d'un impôt sur les successions et les donations, dont le produit revient aux cantons. La Confédération prélève un impôt général sur toutes les boissons alcooliques, dont les taux seront échelonnés selon la teneur en alcool. La Confédération pourvoit à l'imposition de la consommation d'énergie; les taux seront fonction de l'atteinte portée à l'environnement par chaque producteur d'énergie. La produit de cet impôt sert à financer les travaux de recherches et leur application en vue de résoudre les problèmes posés par l'environnement et l'aménagement du territoire. Le produit des taux sur les carburants pour véhicules à moteur fait exception; il doit être affecté principalement à la construction, à l'exploitation et à l'entretien des routes. Seuls les principes sont insérés dans la constitution.
+
+#1977
+Pour une limitation du nombre annuel des naturalisations
+
+La législation fédérale prescrit que le nombre total des naturalisations ne peut dépasser le chiffre de 4000 par an. Cette limitation reste valable aussi longtemps que la population totale de résidence de la Suisse est supérieure à 5 500 000 et que la production de denrées alimentaires assurée par les propres moyens du pays ne suffit pas à approvisionner la population de résidence en denrées d'usage courant.
+
+#1977
+Contre l'emprise étrangère
+
+La Confédération veille à ce que le nombre des étrangers résidant en Suisse qui bénéficient d'une autorisation d'établissement ou de séjour ne dépasse pas 12,5 pour cent de la population suisse de résidence.
+Lorsque le nombre des étrangers bénéficiant d'une autorisation d'établissement ou de séjour dépasse 12,5 pour cent du nombre des ressortissants suisses dénombrés lors du dernier recensement de la population, les dispositions suivantes entrent en vigueur par dérogation à l'article 69ter: La Confédération limite la validité de toutes les nouvelles autorisations de séjour et de toutes les prolongations de manière que l'étranger ne puisse faire valoir aucun droit à l'établissement. Comme seule mesure admise pour lutter contre l'excès de population étrangère en facilitant la naturalisation, le Conseil fédéral peut disposer, en vertu de l'article 44, 3e alinéa, de la constitution, que l'enfant de parents étrangers acquiert la nationalité suisse dès sa naissance lorsque sa mère était ressortissante suisse par filiation et que les parents ont leur domicile en Suisse lors de la naissance de l'enfant. Ne sont pas comptés dans le nombre des étrangers et sont exceptés des mesures contre l'excès de population étrangère: les saisonniers, les frontaliers, les enseignants et les étudiants des établissements supérieurs d'instruction, les réfugiés politiques, les malades, les membres de représentations diplomatiques et consulaires, les fonctionnaires d'organisations internationales. Il y a lieu d'accorder de préférence du personnel étranger aux établissements prêtant des services importants à la communauté, tels qu'hôpitaux, maisons de retraite et autres établissements hospitaliers, aux services publics, à l'agriculture, à l'industrie hôtelière, aux entreprises assurant l'approvisionnement en denrées alimentaires, aux petites entreprises artisanales et au service de maison. La Confédération dispose qu'aucun salarié suisse ne doit être licencié d'une entreprise par suite de mesures de rationalisation ou de limitation de l'exploitation aussi longtemps que des étrangers appartenant à la même catégorie professionnelle sont occupés dans cette entreprise.
+
+#1979
+Pour le développement des chemins et sentiers
+
+La Confédération assurera par voie législative l'aménagement, la construction et l'entretien d'un réseau pédestre national ainsi que la coordination, la construction et l'entretien des réseaux régionaux de chemins et sentiers dans toute la Suisse. Elle encourage la construction et le développement des réseaux locaux de chemins pour piétons. Les chemins destinés aux piétons doivent être à l'écart des routes destinées au trafic motorisé.
+
+#1976
+Pour la semaine de 40 heures
+
+La durée normale du travail ne doit pas dépasser 40 (quarante) heures par semaine. Disposition transitoire: La nouvelle disposition entrera en vigueur un an après avoir été acceptée par le peuple en votation populaire. Dès ce moment, les dispositions légales concernant la durée maximale du travail hebdomadaire seront considérées comme étant modifiées dans le sens du nouvel article
+
+#1977
+Pour une protection efficace des locataires
+
+La Confédération édicte des dispositions sur les loyers immobiliers et sur la protection des locataires contre les résiliations injustifiées et les prétentions abusives. Les loyers immobiliers ne peuvent être augmentés, même lors d'un changement de propriétaire ou de locataire, sauf autorisation. Celle-ci ne peut être accordée que pour des immeubles dont les comptes apporteront la preuve d'un rendement locatif insuffisant pour permettre une rentabilité équitable des fonds propres et la couverture des charges effectives. En cas de changement de main, le prix d'achat n'est pris en considération que dans la mesure où il ne dépasse pas la valeur de rendement moyenne d'objets comparables. Les loyers des choses louées pour la première fois sont soumis à autorisation. Pour les immeubles neufs, les loyers sont calculés sur la base du coût de revient; les coûts exagérés ne sont pas pris en considération. La congé donné par le bailleur sans justes motifs est annulé; s'il est justifié, mais entraîne des conséquences pénibles pour le preneur, il peut être différé dans son terme ou annulé. Ces dispositions s'appliquent même en cas de vente, de transformation ou de démolition de la chose louée. Sont spécialement protégés les locataires dont l'appartement est vendu en propriété par étage. La Confédération édicte des dispositions analogues s'appliquant aux fermages et aux immeubles concédés en droit de superficie.
+
+#1977
+Contre la limitation du droit de vote lors de la conclusion de traités avec l'étranger
+
+Les traités internationaux conclus pour une durée déterminée ou indéterminée sont également soumis à l'acceptation ou au rejet par le peuple lorsque la demande en est faite par 30 000 citoyens actifs ou par huit cantons.
+
+#1974
+Contre l'emprise étrangère et le surpeuplement de la Suisse
+
+La Confédération prend des mesures pour combattre l'emprise étrangère et le surpeuplement de la Suisse.
+Le nombre des nouvelles naturalisations ne doit pas excéder 4000 par an. Le Conseil fédéral fait en sorte que le nombre des étrangers résidant en Suisse ne dépasse pas 500 000. Dans chaque canton, la proportion d'étrangers sera de 12 pour cent au plus de la population, à l'exception du canton de Genève où elle sera de 25 pour cent au plus. Ne sont pas compris dans le nombre des étrangers selon la lettre c et sont exempts des mesures contre l'emprise étrangère et le surpeuplement: 150 000 saisonniers (ne résidant pas plus de 10 mois en Suisse et n'y ayant pas leur famille), 70 000 frontaliers, le personnel des établissements hospitaliers et les membres de représentations diplomatiques et consulaires.
+
+#1976
+Pour une assurance responsabilité civile pour les véhicules à moteurs et les cycles
+
+La Confédération instituera, par la voie de la législation, une assurance fédérale pour la couverture de la responsabilité civile des détenteurs de véhicules à moteur et de cycles.
+
+#1973
+Pour la création d'un service civil
+
+Un service civil est prévu comme solution de remplacement du service militaire, pour les Suisses qui ne peuvent concilier l'accomplissement du service militaire avec les exigences de leur foi ou de leur conscience.
+Il sera pourvu à la création d'une Organisation fédérale du service civil. Cette organisation ne doit pas incorporer dans l'armée les citoyens astreints au service civil; doit les employer judicieusement dans le cadre des buts généraux de la Confédération, en tenant compte, autant qu'il est possible, de leurs aptitudes; ne doit pas exiger, de leur part, des prestations de service inférieures à celles du service militaire.
+
+#1976
+Pour la décriminalisation de l'avortement
+
+Il ne pourra être prononcé de condamnation pour interruption de la grossesse.
+
+#1976
+Pour la participation des travailleurs
+
+La Confédération a le droit de légiférer sur la participation des travailleurs et de leurs organisations aux décisions dans les entreprises et administrations.
+
+#1972
+Contre le bang supersonique des avions civils
+
+Les vols à vitesse supersonique sont interdits au dessus du territoire de la Confédération. Le Conseil fédéral arrête, pour l'aviation militaire suisse, les dérogations à cette interdiction.
+
+#1972
+Pour la construction de logements
+
+En vue d'encourager la construction et l'accès à la propriété de logements à des taux adaptés à la capacité financière des familles et des particuliers, la Confédération institue un fonds national pour la construction. Le Conseil fédéral nomme les membres du conseil d'administration de ce fonds, choisis parmi les représentants de l'économie, les propriétaires immobiliers et les locataires.
+Le fonds national pour la construction est chargé des tâches suivantes: Pour ce qui est des personnes physiques: octroi de prêts hypothécaires jusqu'à 90% de la valeur vénale, avec obligation d'amortissement, en vue de l'acquisition d'un logement ou d'une maison familiale en propre pour leur usage personnel. L'intérêt de ces prêts hypothécaires variera de 3 à 41/2% au maximum selon le revenu du débiteur. Il ne sera pas accordé de prêts pour des logements de vacances ni pour des appartements de luxe. Pour ce qui est des propriétaires fonciers s'engageant à faire bénéficier leurs locataires de l'avantage qu'ils ont reçu en matière de taux: octroi de prêts hypothécaires allant jusqu'à 90% de la valeur vénale des logements, avec obligation d'amortissement, pour des immeubles locatifs en construction ou projetés, et cela à des taux inférieurs à ceux qui sont pratiqués sur le marché. Pour ce qui est des communes ou des institutions d'utilité publique: octroi de prêts hypothécaires en vue de la construction de homes et de logements pour les personnes âgées, jusqu'à concurrence de 90% de la valeur vénale, avec obligation d'amortissement, et cela à des taux allant de 2 à 3%. Participation financière à la mise en valeur de terrains à construire et de grands projets de construction, en collaboration avec les services de planification régionale, les autorités cantonales et communales.
+
+#1972
+Pour le contrôle renforcé des industries d'armement — Pour l'interdiction d'exportation d'armes
+
+La fabrication et la vente de la poudre de guerre appartiennent exclusivement à la Confédération.
+La fabrication, l'acquisition, l'importation, le transit et la distribution d'armes, de munitions, d'explosifs et de tout autre matériel de guerre ou de pièces détachées sont du ressort de la Confédération. Des concessions ne seront accordées qu'aux personnes et entreprises qui, du point de vue de l'intérêt national, présentent toutes les garanties nécessaires. L'exportation d'armes, de munitions et d'explosifs militaires ainsi que de tout autre matériel technique servant à des fins militaires, y compris les pièces détachées, est interdite. En dérogation à l'alinéa 3 du présent article, la Confédération peut autoriser l'exportation de matériel de guerre, au sens dudit alinéa, vers les pays neutres d'Europe, ainsi que la collaboration technique dans le domaine des industries de guerres avec ces pays, pour autant que l'interdiction de réexportation vers d'autres pays soit respectée. La législation fédérale fixera les dispositions nécessaires pour l'exécution de cet article et en particulier précisera les modalités de la collaboration future entre la Confédération et l'industrie privée, ainsi que l'octroi, la durée et le retrait des concessions, tout comme le contrôle des concessionnaires. Le Conseil fédéral édictera, sous réserve de la législation fédérale, une ordonnance qui déterminera, quels sont les armes, munitions, explosifs, autres matériels et pièces détachées auxquels s'applique la présente disposition.
+
+#1974
+Pour une meilleure assurance-maladie
+
+La Confédération institue par voie législative, en tenant compte des caisses-maladie existantes, l'assurance en cas de maladie et de maternité, ainsi que l'assurance en cas d'accidents. L'assurance des soins médicaux et pharmaceutiques, y compris les soins dentaires, est obligatoire. Dans les cas de maladies coûteuses ou de longue durée, d'accidents répondant aux mêmes critères et non assurés au sens du 4e alinéa, d'hospitalisation et de maternité, elle couvre, en application des principes définis par la loi, la totalité des frais. L'assurance de la perte de gain est obligatoire au moins dans les cas prévus au 2e alinéa. Ses prestations s'élèvent à 80 pour cent au moins du revenu réalisé précédemment; pour les personnes n'exerçant pas d'activité lucrative, elles sont au moins égales aux indemnités journalières de l'assurance en cas d'invalidité. Le plafond du revenu assurable est fixé par la loi. L'assurance en cas d'accidents est obligatoire pour tous les travailleurs. La Confédération peut étendre l'obligation à d'autres catégories de personnes. Les prestations prévues aux 2e et 3e alinéas sont financées par des contributions de la Confédération, des cantons et des assurés. Pour les personnes exerçant une activité lucrative et pour leurs familles, la cotisation est fixée en pour-cent du revenu du travail. L'employeur prend à sa charge la moitié au moins de la cotisation des travailleurs. La Confédération et les institutions d'assurance encouragent toutes mesures utiles à la prévention des maladies et des accidents. La Confédération coordonne l'organisation de ces assurances avec les autres branches des assurances sociales.
+
+#1972
+Pour la coordination scolaire
+
+L'âge d'entrée à l'école, le début de l'année scolaire et la durée de la scolarité obligatoire soient fixés uniformément pour toute la Suisse; La Confédération encourage la recherche en matière d'enseignement et favorise les efforts de coordination des cantons sur le plan scolaire; La Confédération entreprenne tout ce qui est en son pouvoir, en collaboration avec les cantons, pour synchroniser les programmes scolaires et les plans d'enseignement de tous les degrés jusqu'à la maturité, la promotion d'un degré à l'autre, les moyens d'enseignement et la formation du corps enseignant, ceci afin de permettre le passage sans difficulté d'une école à l'autre.
+
+#1970
+Contre l'emprise étrangère
+
+La Confédération prend des mesures contre l'emprise démographique ou économique étrangère en Suisse.
+Le Conseil fédéral veille à ce que dans chaque canton, Genève excepté, le nombre des étrangers ne soit pas supérieur à 10 pour cent des citoyens suisses dénombrés lors du dernier recensement. Pour le canton de Genève, la proportion admise est de 25 pour cent. Dans le compte des étrangers, selon le présent article, lettre b, ne sont pas pris en considération et touchés par les mesures contre la surpopulation : Les saisonniers (qui ne demeurent pas plus de 9 mois par an en Suisse, et y viennent sans famille), les frontaliers, les étudiants de degré universitaire, les touristes, les fonctionnaires d'organisations internationales, les membres des délégations diplomatiques et consulaires, les hommes de sciences et les artistes ayant des qualifications particulières, les retraités, les malades et personnes en convalescence ou en traitement, le personnel d'hôpital, le personnel d'organisations de charité ou ecclésiastiques internationales. Le Conseil fédéral veille à ce qu'aucun citoyen suisse ne soit congédié en raison des mesures de restriction ou de rationalisation, aussi longtemps que des étrangers, de la même catégorie professionnelle, travaillent dans la même exploitation. Le Conseil fédéral ne peut utiliser la naturalisation comme mesure de lutte contre la surpopulation étrangère qu'en décidant que les enfants de parents étrangers sont citoyens suisses dès leur naissance, quand leur mère est d'origine suisse, et les parents domiciliés en Suisse au moment de la naissance
+
+#1972
+Contre la pollution des eaux
+
+La Confédération a le droit de légiférer pour protéger les eaux superficielles et souterraines contre la pollution. L'exécution des dispositions prises est réservée aux cantons, sous la surveillance de la Confédération, soit abrogé et remplacé par le nouvel article 24quater suivant: La Confédération légifère en vue de la protection efficace et durable des eaux superficielles et souterraines, du point de vue de la qualité et de la quantité, contre toute influence préjudiciable. Elle prend notamment toutes mesures utiles pour interdire ou limiter la fabrication, l'importation et l'usage de produits dangereux pour la pureté des eaux. Les cantons sont chargés de l'exécution des dispositions prises par la Confédération, sous sa surveillance et sous réserve du contrôle fédéral de l'importation en Suisse de produits nocifs pour la pureté des eaux. En cas d'inaction des cantons, la Confédération prend toutes mesures utiles à leur place et à leurs frais. La Confédération facilite l'exécution des mesures visant la protection des eaux de la manière suivante: Elle accorde des prêts à longue échéance et à faible intérêt pour la pose des canaux collecteurs et la construction des installations servant à la protection des eaux, notamment à l'épuration des eaux usées et à l'élimination des déchets, l'intérêt de ces prêts ne pouvant en aucun cas dépasser le taux de 31/2 pour cent l'an; Elle accorde dans le même but une subvention égale au 60 pour cent de la dépense totale; le taux de la subvention peut être réduit pour les cantons et les communes à capacité financière moyenne ou forte, mais ne peut être inférieur au 20 pour cent; Elle encourage par ses propres travaux et en soutenant l'activité de tiers les recherches et les essais effectués dans le domaine de la protection des eaux, ainsi que l'étude méthodique des eaux superficielles et souterraines.
+
+#1970
+Pour le droit au logement et le développement de la protection de la famille
+
+La Confédération reconnaît le droit au logement et à cet effet prend les mesures nécessaires pour que les familles et les personnes seules puissent obtenir un logement répondant à leurs besoins et dont le loyer ou le coût n'excède pas leur capacité financière. Les lois édictées en vertu de cet alinéa seront exécutées avec le concours des cantons; appel pourra être fait à la collaboration de corporations de droit public et privé. Si, néanmoins, il y a pénurie de logements dans un canton ou une agglomération, la Confédération prend, en collaboration avec le canton intéressé, les mesures temporairement nécessaires pour y protéger toutes les familles et personnes locataires contre la résiliation des baux sans justes motifs, la fixation des loyers à un niveau excessif et toutes autres exigences abusives.
+
+#1968
+Pour une amélioration de l'assurance-vieillesse et survivants et de l'assurance-invalidité
+
+Les rentes de l'assurance-vieillesse et survivants et les rentes de l'assurance-invalidité sont relevées chaque année dans la mesure du renchérissement ainsi que de l'accroissement du revenu national réel. La Confédération, par la voie législative, oblige les employeurs à assurer au personnel des prestations complémentaires à l'assurance-vieillesse et survivants et à l'assurance-invalidité, compte tenu des principes suivants: Les contributions de l'assurance complémentaire sont par moitié au moins à la charge de l'employeur;
+Le droit de cogestion est garanti aux salariés; En cas de cessation du rapport de travail, les droits acquis du salarié à l'assurance sont garantis.
+
+#1968
+Contre la pénétration étrangère
+
+e nombre des étrangers établis ou en séjour ne doit pas dépasser, dans l'ensemble, un dixième de la population résidente. Pour prévenir le danger de pénétration étrangère, le nombre des ressortissants étrangers en séjour doit, dès l'entrée en vigueur de la présente disposition, être abaissé de 5% au moins chaque année jusqu'à ce que le maximum autorisé soit atteint, et compte tenu des exigences humanitaires. Les besoins de l'économie seront pris équitablement en considération. Le Conseil fédéral décide chaque année la réduction à opérer dans chaque canton.
+
+#1966
+Contre l'alcoolisme
+
+Afin de restreindre l’alcoolisme et par là aussi d’augmenter la sécurité de la circulation routière, l’imposition doit être étendue à toutes les boissons alcooliques. Elle sera échelonnée selon la teneur en alcool et calculée de façon que la consommation diminue. Le commerce illégal d’eau-de-vie doit être jugulé par des mesures efficaces allant, s’il le faut, jusqu’à la suppression, contre indemnité, des distilleries domestiques. Le produit de l’imposition sera réparti, selon une clé à fixer dans la constitution, entre la Confédération et les cantons. Il sera utilisé, dans la même mesure que jusqu’ici au moins, pour les besoins de l’assurance-vieillesse et survivants, la lutte contre l’alcoolisme et les besoins généraux des cantons. Le surplus sera affecté à la lutte contre la pollution des eaux.
+
+#1967
+Contre la spéculation foncière
+
+La Confédération prend, avec le concours des cantons, des mesures pour empêcher une hausse injustifiée des prix des immeubles, pour prévenir la pénurie de logements et pour favoriser l'aménagement du territoire sur le plan national, régional et local, dans l'intérêt de la santé publique et de l'économie du pays. Pour atteindre ces buts, la Confédération et les cantons peuvent exercer un droit de préemption en cas de vente d'immeuble entre particuliers, ainsi qu'exproprier des immeubles moyennant indemnité.
+
+#1963
+Pour une réduction de l'impôt pour la défense nationale
+
+Une réduction de 20 pour cent est accordée sur les montants dus au titre de l'impôt pour la défense nationale des années 1963 et 1964. L'impôt ne sera pas perçu lorsque son montant net après réduction ne dépassera pas 20 francs. Sont également sujets à réduction les montants dus au titre de l'impôt pour la défense nationale qui auraient été arrêtés avant l'entrée en vigueur de la présente disposition. Le trop perçu sera restitué au contribuable.
+
+#1965
+Pour l'augmentation des rentes de l'assurance-vieillesse et survivants
+
+Les rentes ordinaires et extraordinaires de l'assurance - vieillesse et survivants et de l'assurance - invalidité doivent couvrir les besoins des bénéficiaires et leur assurer un niveau de vie suffisant.
+
+#1964
+Pour la réduction de la durée du travail
+
+La Confédération statuera, par voie législative, pour l'industrie, les arts et métiers et le commerce, des prescriptions: Sur la protection des travailleurs, en particulier sur la prévention des accidente et sur l'hygiène du travail; Sur les mesures particulières de protection en faveur des femmes et des jeunes gens; Sur la durée du travail et du repos. La réglementation de la durée du travail et du repos doit, tout en assurant la protection des travailleurs, tendre à réaliser la sécurité de l'emploi; Sur les vacances.
+La législation tiendra compte des accords passés entre les associations d'employeurs et de travailleurs. Les dispositions relatives à la durée du travail contenues dans la loi fédérale sur le travail dans les fabriques ainsi que dans la loi concernant la durée du travail dans l'exploitation des chemins de fer et autres entreprises de transport et de communications seront modifiées de sorte qu'en 1962 au plus tard la durée hebdomadaire normale du travail soit réduite de quatre heures au moins. La durée du travail dans le commerce et les arts et métiers devra, dans le même délai, être réglée par la loi; celle du personnel technique et des employés commerciaux de bureau ne dépassera pas 44 heures par semaine.
+
+#1963
+Pour le droit du peuple de décider de l'équipement de l'armée suisse en armes atomiques
+
+La décision relative à l'équipement de l'armée suisse en armes atomiques de toute nature sera obligatoirement soumise à la votation populaire.
+
+#1961
+Pour l'augmentation des rentes de l'assurance-vieillesse et survivants et adoption du principe de la répartition
+
+La Confédération instituera une assurance-vieillesse et survivants générale et obligatoire. La législation fédérale réglera le détail des dispositions en s'inspirant des principes suivants. Le montant des rentes sera établi périodiquement, au moins tous les cinq ans, sur la base des prévisions budgétaires de l'assurance en fonction de l'évolution démographique et du développement économique. Les rentes sont adaptées à l'accroissement du revenu national nominal. Les taux des rentes ne pourront être inférieurs à ceux de la période de calcul écoulée.
+Un fonds de compensation sera créé pour équilibrer les effets des fluctuations; en cours d'existence, il ne devra ni dépasser le double montant de la somme la plus élevée des rentes annuelles prévues pour le cours d'une période de calcul, ni tomber au-dessous du montant simple de cette somme. Les contributions financières de la Confédération et des cantons à l'assurance -vieillesse et survivants ne devront pas dépasser la moitié du montant nécessaire à l'assurance pour la moyenne de chaque période de calcul de cinq ans. La Confédération remplira ses obligations en premier lieu par les recettes courantes de l'imposition du tabac et des eaux-de-vie. La Confédération instituera par la voie législative une assurance-invalidité; elle pourra déclarer l'affiliation obligatoire en général ou pour certains groupes de citoyens seulement. La réalisation de l'assurance-vieillesse et survivants et de l'assurance-invalidité aura lieu avec le concours des cantons et des associations professionnelles. Les caisses d'assurance publiques et privées pourront être appelées à collaborer, ainsi que dans le domaine de l'assurance-invalidité, d'autres organisations qualifiées.
+
+#1962
+Pour l'interdiction des armes atomiques
+
+La fabrication, l'importation, le transit, l'entrepôt et l'emploi des armes atomiques de toute nature ainsi que de leurs parties intégrantes sont interdits sur le territoire de la Confédération.
+
+#1961
+Pour l'institution de l'initiative législative
+
+Cinquante mille citoyens actifs ou huit cantons ont le droit de demander l'adoption, la modification ou l'abrogation d'une loi fédérale ou d'un arrêté fédéral de portée générale. Une telle demande n'est valable et ne doit être soumise au peuple que si elle n'est contraire ni à la Constitution fédérale ni aux obligations que des traités imposent à la Confédération. Elle ne doit pas non plus demander la modification ou l'abrogation d'actes administratifs ou de jugements. Une initiative ne doit pas porter sur plus d'un objet. L'initiative doit revêtir la forme d'un projet rédigé de toutes pièces. Sa validité est examinée par l'Assemblée fédérale. Si l'Assemblée fédérale approuve l'initiative, elle acquiert force de loi. Si elle n'est pas approuvée par les deux conseils, elle doit être soumise au peuple. L'Assemblée fédérale peut proposer au peuple de la rejeter; elle peut lui soumettre en même temps un contre-projet.
+
+#1959
+Pour la sauvegarde du parc national suisse
+
+Voulant assurer l'intégrité du parc national suisse et conscients des sacrifices matériels qui doivent être consentis pour son maintien, principalement en renonçant à utiliser entièrement le potentiel hydraulique du bassin de l'Inn, les citoyens suisses soussignés, jouissant du droit de vote, demandent la révision partielle de la constitution fédérale par l'introduction d'un nouvel article dont la teneur serait la suivante: Le parc national suisse dans la Basse-Engadine demeure intact dans l'ensemble de son paysage, sa faune et sa flore, comme réserve naturelle créé dans l'intérêt du peuple et de la science. Il comprend pour le moins les territoires formant la réserve nationale au 1er janvier 1957. L'acquisition de droits pour le parc national s'effectue contre indemnisation intégrale, conformément à l'article 23 de la constitution fédérale. En outre, la Confédération dédommage de façon équitable les communes intéressées de l'Engadine et de la vallée de Munster ainsi que le canton des Grisons des préjudices que leur cause l'existence du Parc national.
+
+#1956
+Pour une solidarité sociale et internationale
+
+Une action contenue de solidarité sociale sur le plan national comme sur le plan international constitue un élément essentiel de la défense nationale et une contribution efficace au maintien de la paix. 
+A cet effet, la Confédération consacre annuellement une somme au moins égale au dixième des dépenses militaires à des tâches sociales et culturelles, la moitié dans le pays et la moitié à l'étranger. Ces dépenses ne doivent pas remplacer celles qui étaient déjà à la charge de la Confédération au moment où le présent article entre en vigueur.
+
+#1956
+Pour la limitation des dépenses militaires
+
+L'Assemblée fédérale est compétente pour décider chaque année des dépenses militaires jusqu'au montant de cinq cents millions de francs. Les dépenses militaires qui dépassent ce montant sont soumises à la votation populaire.
+
+#1958
+Pour l'amélioration du réseau routier
+
+La Confédération peut ordonner à ses frais ou encourager par des subsides les travaux publics qui intéressent la Suisse ou une partie considérable du pays. Dans ce but, elle peut ordonner l'expropriation moyennant une juste indemnité. La législation fédérale statuera les dispositions ultérieures sur cette matière. L'Assemblée fédérale peut interdire les constructions publiques qui porteraient atteinte aux intérêts militaires de la Confédération. Elle prend des mesures pour favoriser l'entretien des routes cantonales et l'amélioration appropriée des routes qui intéressent la Suisse ou une partie considérable du pays et pour assurer la construction de routes automobiles, notamment entre l'Ouest et l'Est et entre le Nord et le Sud du pays, et des principaux secteurs complémentaires. Elle y affectera au moins la moitié du produit total net des droits d'entrée perçus sur les carburants pour moteurs.
+
+#1958
+Pour la réduction de l'impôt pour la défense nationale et de l'impôt sur le chiffre d'affaires
+
+L'arrêté du Conseil fédéral concernant la perception d'un impôt pour la défense nationale sera modifié comme suit avec effet au 1er janvier 1957: La déduction du revenu net dans l'impôt pour la défense nationale dû par les personnes physiques s'élève à 6'000 francs, et pour les célibataires à 5'000 francs, de sorte que l'assujettissement commence à partir d'un revenu net de 9'000 francs et pour les célibataires de 7'000 francs. Pour les revenus de plus de 100'0000 francs, les dispositions appliquées jusqu'à présent demeurent en vigueur. Les déductions pour enfants et personnes nécessiteuses sont portées à 700 francs.
+Lors de la taxation en vue de l'impôt complémentaire dû par les personnes physiques, le montant déduit de la fortune entrant en ligne de compte dans le calcul de l'impôt est porté à 90'000 francs, de sorte que l'assujettissement commence à partir d'une fortune nette totale de 100'000 francs. L'arrêté du Conseil fédéral instituant un impôt sur le chiffre d'affaires sera modifié comme suit: Sont exonérés de l'impôt sur le chiffre d'affaires, en plus des marchandises déjà exonérées jusqu'à présent, les textiles, les combustibles solides et liquides, les savons et produits pour lessives, les boissons sans alcool réputées denrées alimentaires, les médicaments, les livres, les fourrages et produits pour la protection des plantes, les litières et acides pour l'ensilage, les semences et les engrais.
+
+#1958
+Pour la réduction des impôts fédéraux
+
+Afin d'éliminer l'accroissement des charges fiscales dû à la dépréciation de l'argent, l'impôt sur le revenu des personnes physiques est réduit en ce sens que chaque contribuable paiera l'impôt au taux en % appliqué en 1955 et 1956 pour un revenu réduit d'un tiers. L'assujettissement commence ainsi à partir d'un revenu de 7500 francs pour les personnes mariées et de 6000 francs pour les célibataires. L'impôt complémentaire sur la fortune des personnes physiques est supprimé. Les personnes morales qui payaient jusqu'ici l'impôt sur la fortune d'après le tarif déterminant pour les personnes physiques acquitteront cet impôt comme les sociétés coopératives après déduction de 30 000 francs. L'impôt sur le chiffre d'affaires est supprimé pour les transactions en médicaments, livres et marchandises mentionnées à l'article 19, 1er alinéa, lettre a, de l'arrêté y relatif: combustibles; produits pour lessive et savons; boissons sans alcool réputées denrées alimentaires; fourrages (y compris les céréales et les produits de céréales employés à l'affouragement), litières et acides pour l'ensilage; engrais et produits pour la protection des plantes; semences, tubercules et oignons à replanter, plantes vivantes, boutures, greffes, ainsi que fleurs coupées et rameaux. L'Assemblée fédérale adaptera aux dispositions constitutionnelles sus-indiquées l'arrêté du Conseil fédéral concernant la perception d'un impôt pour la défense nationale et l'arrêté du Conseil fédéral instituant un impôt sur le chiffre d'affaires; elle édictera les dispositions transitoires nécessaires. Elle prendra en outre les mesures visant à simplifier la perception des impôts sur le chiffre d'affaires et sur le luxe.
+
+#1958
+Pour l'introduction de la semaine de 44 heures
+
+La Confédération a le droit de statuer des prescriptions uniformes sur le travail des enfants dans les fabriques, sur la durée du travail qui pourra y être imposée aux adultes, ainsi que sur la protection à accorder aux ouvriers contre l'exercice des industries insalubres et dangereuses. La duré normale du travail ne doit pas dépasser 44 heures par semaine.
+
+#1959
+Pour la création d'une assurance-invalidité fédérale
+
+Convaincus que c'est un devoir social urgent de donner à tous les invalides physiques et mentaux un droit à une rente d'invalidité et à une aide, les soussignés, citoyens suisses jouissant du droit de vote, proposent, par la voie d'une initiative populaire et conformément à l'article 121 de la constitution fédérale, de modifier, respectivement de compléter la constitution fédérale de la façon suivante: La Confédération institue par voie législative l'assurance - invalidité qui a pour but d'assurer un niveau d'existence suffisant aux invalides physiques et mentaux.
+
+#1955
+Pour une trêve de l'armement
+
+Les citoyens soussignés, usant du droit d'initiative considérant: la nécessité d'une action positive en faveur de la paix et d'une limitation des armements, et les obligations d'ordre moral qui leur paraissent incomber à la Suisse en sa qualité de pays neutre demandent que la constitution fédérale soit complétée par un article de caractère transitoire prévoyant: que le budget ordinaire de la Confédération, au chapitre des dépenses militaires, soit l'objet pour l'année 1955 (ou au plus tard 1956) d'une réduction massive de l'ordre de 50%; que pendant cette même année aucune dépense nouvelle ne soit engagée dans le cadre du budget extraordinaire d'armement; que l'économie ainsi réalisée soit affectée: par moitié à des oeuvres suisses en faveur de l'enfance et, à fonds perdus, en faveur de la construction de logements à loyers modestes; par moitié à des actions de reconstruction de régions dévastées par la guerre dans les pays qui nous entourent.
+
+#1955
+Pour la protection des locataires et des consommateurs
+
+La Confédération prend les mesures nécessaires, selon les dispositions ci-après, pour sauvegarder le pouvoir d'achat et prévenir la hausse du coût de la vie. Elle surveille les prix et marges de bénéfices exiges pour les marchandises, les services de l'industrie et de l'artisanat, les loyers et les fermages. Quand le jeu de la demande est fortement troublé ou que la formation des prix est influencée par des mesures de protection de l'Etat, la Confédération décrète, afin d'empêcher l'augmentation injustifiée des prix et des marges de bénéfice exigés pour les marchandises destinées au marché intérieur et pour les services de l'industrie et de l'artisanat, des prescriptions sur les prix maximums. Elle prend en outre, au besoin, des mesures en matières de compensations des prix. Les loyers des logements et des locaux commerciaux ne peuvent pas être portés, sans autorisation, au-delà du niveau admis à la date du 31 décembre 1953. Les immeubles habitables depuis le 31 décembre 1948, les chambres meublées louées isolément et les logements de vacances ne sont pas soumis au contrôle des loyers. Les loyers n'excéderont pas le montant nécessaire pour couvrir les charges immobilières normales et pour servir un intérêt équitable sur le capital investi dans l'immeuble et sur les améliorations qui en augmenté la valeur. Les immeubles bâtis avant 1940 seront évalués au prix d'avant-guerre; les autres, d'après les prix usuels de construction. Quand la réserve de logements vacants de diverses grandeurs et catégories de prix est suffisante, le contrôle des loyers peut être réduit progressivement. Le moment et la mesure de sa réduction sont déterminés de manière à n'exercer aucun effet préjudiciable sur le coût de la vie ni sur les revenus. Afin de protéger les locataires, le droit de résilier les baux à loyer sera restreint.
+
+#1955
+Pour un contrôle de l'administration fédérale
+
+La délégation des finances des deux conseils nomme trois experts pris en dehors de l'administration et de l'Assemblée fédérales. Les experts ont pour mission de rechercher toutes les possibilités d'économies dans l'emploi des ressources de la Confédération. Ils agissent de leur propre chef ou sur mandat des autorités fédérales. L'administration fédérale est tenue de les renseigner et de leur prêter son concours. Les experts présentent au moins une fois par semestre des propositions à la délégation des finances, à l'intention de l'Assemblée fédérale. Ils veillent à l'exécution des propositions adoptées. Une loi fédérale précise l'application du présent article, les compétences des experts et l'organisation de leur travail.
+
+#1956
+Pour de concessions pour l'utilisation des forces hydrauliques
+
+Les concessions pour l'utilisation des forces hydrauliques qu'il appartient à la Confédération d'octroyer doivent être approuvées par les deux Conseils et soumises à l'adoption ou au rejet du peuple lorsque la demande en est faite par 30 000 citoyens suisses ayant droit de vote ou par huit cantons.
+
+#1954
+Pour la protection des sites depuis la chute du Rhin jusqu'à Rheinau
+
+La beauté des sites doit être ménagée; elle doit être conservée intacte si un intérêt public majeur l'exige. Pour maintenir intacte la chute du Rhin et protéger la beauté de cette chute et celle des sites jusqu'à Rheinau, la concession pour la construction de l'usine de Rheinau octroyée le 24 décembre 1944 en violation de l'article 22 de la loi fédérale sur l'utilisation des forces hydrauliques est annulée. Une nouvelle concession ne pourra pas être octroyée.
+
+#1952
+Pour un financement des armements 
+
+Pour couvrir rapidement les frais du réarmement, s'élevant à 1464 millions de francs, déjà décidés par l'Assemblée fédérale, en vue de sauvegarder les conquêtes sociales et d'éviter l'accroissement de sa dette; Les cantons prélèvent un sacrifice de paix pour le compte de la Confédération et sous son contrôle. Le sacrifice de paix sera prélevé sur la fortune nette des personnes physiques après déduction de 50 000 francs et sur la fortune nette des personnes morales. Pour les personnes physiques payant annuellement moins de 100 francs d'impôt pour la défense nationale, le minimum exempt d'impôt sera élevé jusqu'à 100 000 francs. La fortune nette du contribuable, établie par la taxation de l'impôt pour la défense nationale de la période 1951/1952, sera prise pour base. Le sacrifice de paix des personnes physiques sera de 1,5 à 4,5 pour cent, celui des personnes morales de 1,5 pour cent de la fortune nette. La sacrifice de paix sera payé au cours des années 1952-1954. L'impôt complémentaire sur la fortune de l'impôt pour la défense nationale ne sera pas prélevé au cours de ces années. Un dixième du sacrifice de paix reste au canton. Un supplément pour l'armement sera prélevé sur l'impôt pour la défense nationale au cours des années 1951-1954.
+
+#1952
+Pour l'impôt sur le chiffre d'affaires
+
+Les citoyens suisses soussignés, considérant qu'il est nécessaire de décharger les consommateurs des impôts indirects antisociaux, nommément de l'impôt sur le chiffre d'affaires qui augmente les prix, demandant, conformément à l'article 121 de la constitution fédérale et aux dispositions de la loi fédérale du 27 janvier 1892 concernant le mode de procéder pour les demandes d'initiative populaire et les votations relatives à la révision de la constitution fédérale, par voie d'initiative populaire. La Confédération n'est pas autorisée à prélever d'impôts sur le chiffre d'affaires.
+
+#1951
+Pour la monnaie franche
+
+La banque investie du monopole des billets de banque a pour tâche principale de régler la circulation de la monnaie en Suisse de telle façon que le pouvoir d'achat du franc suisse reste constant ou autrement dit que l'indice des prix des marchandises de première nécessité reste constant, afin de garantir le plein-emploi des travailleurs.
+
+#1951
+Pour la participation des entreprises de droit public aux dépenses pour la défense nationale
+
+En se procurant les ressources nécessaires à la couverture des dépenses extraordinaires pour la défense nationale, la Confédération devra répartir équitablement les charges fiscales entre les entreprises publiques et privées. A cet effet, les entreprises industrielles et commerciales de droit public, dépendantes et indépendantes, des cantons et des communes, de même que les établissements de crédit et d'assurance cantonaux et communaux, devront être soumis à un impôt adapté à leur capacité économique et à leur rendement. En revanche, les établissements hospitaliers, d'assistance et d'éducation ainsi que les institutions poursuivant essentiellement un but social, culturel ou religieux seront exonérés de cet impôt. Les soussignés autorisent le comité d'initiative à retirer la présente demande d'initiative, si l'Assemblée fédérale, par voie constitutionnelle ou législative, prépare d'elle-même une imposition équitable des entreprises de droit public.
+
+#1949
+Pour le retour à la démocratie directe
+
+Les arrêtés fédéraux de portée générale dont l'entrée en vigueur ne souffre aucun retard peuvent être mis en vigueur immédiatement par une décision prise à la majorité de tous les membres de chacun des deux conseils; leur durée d'application doit être limitée. Lorsque la votation populaire est demandée par trente mille citoyens actifs ou par huit cantons, les arrêtés fédéraux mis en vigueur d'urgence perdent leur validité un an après leur adoption par l'Assemblée fédérale s'ils ne sont pas approuvés par le peuple dans ce délai; ils ne peuvent alors être renouvelés. Les arrêtés fédéraux mis en vigueur d'urgence qui dérogent à la constitution doivent être ratifiés par le peuple et les cantons dans l'année qui suit leur adoption par l'Assemblée fédérale; à ce défaut, ils perdent leur validité à l'expiration de ce délai et ne peuvent être renouvelés.
+
+#1947
+Pour une réforme économique et les droits du travail
+
+L'exploitation d'une centrale nucléaire est interdite. Les centrales nucléaires existantes sont mises hors service sept ans au plus tard après l'acceptation de l’article.
+
+#1950
+Pour une protection du sol et du travail par des mesures contre la spéculation
+
+La Confédération prend, avec le concours des cantons, les mesures nécessaires pour soustraire à la spéculation le sol utilisable. Ces mesures tendront en particulier aux buts suivants: Le sol cultivable ne doit pouvoir être acquis que par celui qui le cultivera lui-même pour assure son existence. Les dérogations seront réglées par la législation. Le sol cultivable sera protégé contre le surendettement. La spéculation immobilière pratiquée à des fins commerciales ou en vue de la construction sera empêchée.
+
+#1946
+Pour le droit au travail
+
+Le droit au travail est garanti à tout Suisse valide, conformément aux principes suivants:
+La Confédération assure la mise en oeuvre complète et permanente des forces productives de la nation sur la base de salaires suffisants à l'existence. Pour cela, elle fait appel à la collaboration des cantons, des communes et des associations professionnelles, tant patronales qu'ouvrières. L'autonomie des cantons en matière de législation sur le droit au travail est respectée dans la plus large mesure. Les initiatives privées tendant à préparer et à exécuter des travaux, sur une échelle suffisante, sont encouragées; elles sont soutenues par une politique financière appropriée et par un programme systématique de crédits. Si l'occupation totale de la main-d'oeuvre nationale l'exige, l'exécution et le financement de travaux publics seront prévus. Aussi longtemps qu'un Suisse est privé du travail approprié auquel il a droit, il touche un salaire de compensation. Dans ce cas, il peut être soumis à l'obligation de suivre des cours de perfectionnement ou de réadaptation.
+
+#1947
+Pour la transformation des caisses de compensation en caisses d'assurance-vieillesse et survivants
+
+Organisation. Les caisses de compensation pour perte de salaire et de gain instituées par l'arrêté du Conseil fédéral des 20 décembre 1939 et 14 juin 1940 sont transformées, dès la fin de la mobilisation de guerre, en caisses d'assurance-vieillesse et survivants sur la base du système de la répartition. Les caisses d'assurance-vieillesse et survivants seront professionnelles, interprofessionnelles ou publiques. Leur gestion sera paritaire. Ressources. Les caisses sont alimentées notamment: Par des ressources analogues à celles des caisses actuelles de compensation pour perte de salaire et de gain; Par le bénéfice éventuel du fonds central de compensation pour perte de gain et de salaire des mobilisés (arrêtés fédéraux des 20 décembre 1939, 14 juin 1940 et 28 décembre 1940) qui ne pourra recevoir aucune autre affectation; Par les fonds constitués en faveur de l'assurance-vieillesse et survivants conformément à la constitution fédérale; Par toutes autres recettes qui pourraient être attribuées à l'assurance-vieillesse et survivants conformément à la constitution fédérale. Rentes. Les rentes devront être fixées de manière à assurer à tout vieillard ou survivants -des deux sexes- des conditions d'existence suffisantes.
+
+#1945
+Pour une protection de la famille
+
+La Confédération pourvoit à la sauvegarde de la famille, fondement de la société et de l'Etat, tant lors de sa fondation que pour son maintien. Les mesures ressortissant à la politique financière, économique et sociale doivent tout particulièrement tenir compte des droits et des besoins de la famille. Afin d'assurer à la famille une sécurité matérielle suffisante, la Confédération veille à ce que les chefs de famille gagnant leur vie de façon dépendante ou indépendante, soient mis au bénéfice d'allocations spéciales, soit en raison du nombre de leurs enfants, soit en faveur des vieillards vivant dans leur ménage. Cette tâche est confiée à des caisses de compensation, à des caisses d'assurances ou à d'autres institutions analogues ; au besoin, la Confédération crée elle-même les organisations nécessaires. Dans le domaine de la construction de logements et de la colonisation intérieure, la Confédération peut encourager des initiatives conformes aux intérêts de la famille et appuyer des mesures propres à les sauvegarder. Les mesures prises par la Confédération sont appliquées avec le concours des cantons; en outre, il peut être fait appel à la collaboration d'organisations professionnelles ou d'autres associations de droit public ou privé.
+
+#1942
+Pour la réorganisation du Conseil national
+
+Le Conseil national se compose des députés du peuple suisse élus à raison d'un membre par 30'000 âmes de la population totale. Les fractions en sus de 15'000 âmes sont comptées pour 30’000. Chaque canton et, dans les cantons partagés, chaque demi-canton élit un député au moins. Les élections pour le Conseil national sont directes. Elles ont lieu d'après le principe de la proportionnalité, le cumul imprimé d'avance de certains candidats n'étant pas autorisé. Chaque canton ou demi-canton forme un arrondissement électoral.
+Est éligible comme membre du Conseil national tout citoyen suisse laïque et ayant droit de voter. Cependant, tout citoyen ayant fait partie du Conseil national pendant 12 ans doit se retirer et n'est pas rééligible au Conseil national pour les deux législatures suivantes.
+Avant les élections, la profession et les mandats d'administrateur éventuellement exercés par les candidats sont publiés officiellement; les sociétés dépendant d'entreprises étrangères doivent être désignées comme telles.
+
+#1942
+Pour l’élection du Conseil fédéral par la peuple et augmentation du nombre des membres
+
+L'autorité directoriale et exécutive supérieure de la Confédération est exercée par un Conseil fédéral composé de neuf membres. Les membres du Conseil fédéral sont élus le même jour que ceux du Conseil national, pour une durée de quatre ans, par les citoyens suisses ayant le droit de vote ; ils entrent en fonctions le 1er janvier suivant.
+Peut être élu tout citoyen suisse éligible au Conseil national dont l'élection est proposée par la signature d'au moins 30'000 citoyens ayant le droit de vote. On ne pourra toutefois choisir plus d'un membre du Conseil fédéral dans le même canton. L'ensemble de la Suisse forme un seul arrondissement électoral. En élisant le Conseil fédéral on doit tenir compte équitablement des tendances politiques et des régions linguistiques de la Suisse. Trois membres du Conseil fédéral au moins doivent appartenir aux régions de langue française, italienne ou romane de la Suisse, cinq au moins aux régions de langue allemande. En cas de vacance, il doit être procédé sans retard à une élection complémentaire, à moins que le renouvellement intégral ne doive avoir lieu dans l'espace de six mois.
+
+#1946
+Pour une organisation du transport des marchandises
+
+La Confédération règle le transport des marchandises au moyen de véhicules à traction mécanique conformément aux besoins de l'économie nationale. A cet effet, elle pourvoit à ce que les transports de marchandises à longue distance s'effectuent essentiellement par chemin de fer.
+
+#1940
+Pour une réglementation constitutionnelle du droit d'urgence
+
+Les lois fédérales, de même que les arrêtés fédéraux d'une portée générale, doivent être en outre soumis à l'adoption ou au rejet du peuple si la demande en faite par 30 000 citoyens actifs ou par huit cantons. Les conseils peuvent aussi décider que les lois fédérales ou des arrêtés fédéraux seront immédiatement soumis à l'adoption ou au rejet du peuple. Les arrêtés fédéraux d'une portée générale et dont l'entrée en vigueur ne serait être différée peuvent être appliqués provisoirement jusqu'à l'expiration du délai référendaire et jusqu'à une votation populaire éventuelle, pour autant qu'ils ont été adoptés à l'appel nominal par la moitié au moins de tous les membres de chaque conseil. Ils deviennent caducs s'ils ne sont pas soumis au peuple et adoptés par celui-ci dans les quatre mois dès la remise du nombre de signatures requis pour demander la votation de peuple. Doit être également introduit dans la constitution fédérale le nouvel article 89bis suivant: En cas de mobilisation fédérale, les droits constitutionnels peuvent être provisoirement restreints par des arrêtés fédéraux d'une portée générale. En cas de détresse économique générale, les conseils peuvent être autorisés, pour une durée maximale de deux années, par une loi qui devra être soumis à l'adoption ou au rejet du peuple, à restreindre, au moyen d'arrêtés fédéraux d'une portée générale, la liberté de commerce et d'industrie et à décréter des mesures financières extraordinaires ; dans les deux cas, l'égalité devant la loi sera respectée. Les lois fédérales et les arrêtés fédéraux édictés en vertu de l'article 89bis deviennent caducs une année au plus tard après la fin de la mobilisation au cas prévu dans le premier alinéa, ou après l'expiration de la loi au cas prévu dans le deuxième alinéa. Ils peuvent être soustraits au référendum s'ils sont adoptés à l'appel nominal par la moitié au moins de tous les membres de chaque conseil. Les lois fédérales et les arrêtés fédéraux qui auraient été promulgués en méconnaissance des articles 89 et 89bis de la constitution fédérale n'engagent ni les autorités administratives, ni les tribunaux.
+
+#1939
+Pour les droits démocratiques
+
+Les lois fédérales, les décrets et les arrêtés fédéraux ne peuvent être rendus qu'avec l'accord des deux conseils. Les lois fédérales et les arrêtés fédéraux de portée générale sont soumis à la décision du peuple si la demande en est faite par 30 000 citoyens actifs ou par huit cantons. Les arrêtés fédéraux de portée générale dont l'entrée en vigueur ne souffre pas de délai peuvent être déclarés urgents si chacun des deux conseils le décide à la majorité des deux tiers des votants et dans ce cas, ils ne sont pas soumis à la décision du peuple; ils cessent leurs effets trois ans après leur mise en vigueur. Les traités internationaux conclus pour une durée indéterminée ou pour plus de quinze ans sont soumis également à la décision du peuple si la demande en est faite par 30 000 citoyens actifs ou par huit cantons.
+
+#1941
+Pour une révision du régime de l'alcool
+
+Le Conseil fédéral est invité à présenter, après consultation de tous les milieux de la population, des projets d'amélioration d'ordre fiscal et hygiénique. Il s'inspirera à cet effet des considérations suivantes: Assurer aux agriculteurs et producteurs un écoulement équitable des fruits, en prescrivant que le kirsch et l'eau-de-vie de fruits ne soient admis à la vente qu'à l'état naturel pur (interdiction du coupage). Encourager la production des fruits de table et restreindre dans la mesure du possible l'importation de fruits étrangers. Développer la consommation de fruits séchés (réserves de guerre, ravitaillement des troupes). Cette solution n'empêcherait pas de poursuivre l'étude de la transformation en fourrage des marcs de fruits et de trouver une solution heureuse. Le trois-six (exception faite pour l'alcool à brûler) ne doit être distillé qu'à l'aide de fruits du pays et de leurs déchets, grâce à quoi les achats d'alcool à l'étranger diminueront automatiquement. La fabrication doit en être confiée aux distilleries existantes, ce qui permettrait de ramener le personnel de la régie à un effectif raisonnable. Envisager que l'importation de spiritueux étrangers tels que le cognac et le rhum se fasse essentiellement en compensation de kirsch et d'eau-de-vie de fruits de fabrication suisse.
+
+#1939
+Pour un programme national de création d'occasions de travail
+
+La Confédération élabore un programme national de création d'occasions de travail comprenant des travaux entrepris par la Confédération et le subventionnent de travaux cantonaux, communaux et privés. Ce programme doit être exécuté dans les trois ans qui suivent l'adoption du présent article constitutionnel.
+Pour le financement de ce programme, la Confédération met à disposition une somme pouvant atteindre trois cents millions de francs. Elle peut recourir, à cet effet, au bénéfice dû à la dévaluation réalisé par la banque nationale ensuite de l'arrêté du Conseil fédéral du 27 septembre 1936 instituant des mesures monétaires.
+
+#1938
+Contre l'industrie privée des armements
+
+La fabrication, l'achat et la vente d'armes, de munitions et de matériel de guerre de quelque nature que ce soit sont de la compétence exclusive de la Confédération aux fins d'assurer la défense nationale. Le droit de fabriquer, d'acheter et de vendre des armes, des munitions et du matériel de guerre peut être concédé par la Confédération pour une durée limitée à des citoyens ou des sociétés suisses donnant toute garantie au sujet de leur indépendance vis-à-vis de l'étranger et de l'industrie étrangère des armements. Les concessionnaires sont soumis au contrôle de la Confédération. Les personnes chargées de ce contrôle ont en tout temps le droit de pénétrer librement dans tous les bureaux, locaux et ateliers des concessionnaires, d'examiner et de contrôler tous les livres de comptes, les pièces justificatives et la correspondance et d'interroger les concessionnaires, leur personnel et d'une façon générale toute personne en relation avec l’entreprise. L'importation, l'exportation et le transit d'armes, de munitions et de matériel de guerre ne peuvent avoir lieu qu'avec l'autorisation de la Confédération.
+
+#1947
+Pour une assurance-chômage
+
+La Confédération encourage l'assurance-chômage en tenant compte des caisses existantes; elle peut édicter à cet effet des prescriptions uniformes par la voie législative. La Confédération alloue aux caisses de chômage reconnues une subvention de 35 pour cent de leurs prestations. En cas de chômage intense, cette subvention est augmentée au prorata des charges incombant à chaque caisse sans toutefois excéder, dans la règle, la moitié des prestations. La législation fédérale fixe le montant minimum des subventions des cantons aux caisses de chômage. Les subventions publiques ne peuvent être graduées qu'au regard des prestations de la caisse et de l'importance du chômage. Dans la règle, les caisses de chômage doivent couvrir au moins un cinquième de leurs prestations au moyen de primes payées par les assurés et accorder à ceux-ci 90 indemnités journalières par an dès qu'ils ont versé des primes durant six mois. La Confédération peut compléter l'assurance-chômage par des mesures d'assistance-chômage et édicter à cet effet des prescriptions uniformes par la voie législative.
+
+#1939
+Pour la sauvegarde des droits constitutionnels des citoyens
+
+Le Tribunal fédéral connaît, en outre: des conflits de compétence entre les autorités fédérales, d'une part, et les autorités cantonales, d'autre part; des différends entre cantons, lorsque ces différends sont du domaine du droit public: des réclamations des particuliers pour violation de concordats ou de traités par des actes législatifs ou administratifs cantonaux; des réclamations pour violation de droits constitutionnels des citoyens par des lois et arrêtés fédéraux, ainsi que par des actes législatifs ou administratifs cantonaux. Le recours peut aussi être dirigé contre des ordonnances fédérales, sous réserve de la juridiction administrative du Tribunal fédéral. Dans tous ces cas, le Tribunal fédérale appliquera les traités ratifiés par l'Assemblée de même que les lois et arrêtés fédéraux acceptés en votation populaire. Dans sa juridiction civile et pénale, le Tribunal fédéral appliquera en outre les autres dispositions de la législation fédérale.
+
+#1936
+Pour un impôt fédéral sur les vins et cidres du pays
+
+La Confédération ne peut percevoir ni taxes ni impôts sur les boissons non distillées suivantes, provenant de la culture du sol suisse: les vins de tout genre, y compris les moûts;
+les cidres et poirés naturels, ou dilués, ou mousseux et les vins de baies; le jus de raisin non fermenté (vin sans alcool) et le jus de fruits à pépins non fermenté (cidre ou poiré doux); les jus de baies, les jus de fruits, les sirops naturels. Toutes dispositions actuellement en vigueur relatives à des impôts et taxes sur ces boissons cessent de déployer leurs effets dès l'acceptation du présent article constitutionnel.
+
+#1978
+Pour la liberté de la presse
+
+La liberté de la presse est garantie. Toutefois, les lois cantonales statuent les mesures nécessaires à la répression des abus; ces lois sont soumises l'approbation du Conseil fédéral. La Confédération peut aussi statuer des peines pour réprimer les abus dirigés contre elle ou ses autorités. On ne peut toutefois interdire les oeuvres de la presse indigène, ni les soumettre à la censure ou à d'autres mesures analogues. Les décisions et arrêtés violant la liberté de la presse sont susceptibles de recours de droit public au Tribunal fédéral, même s'ils émanent soit du Conseil fédéral ou de toute autre autorité fédérale, soit encore de l'Assemblée fédérale lorsqu'ils sont soustraits au référendum.
+
+#1947
+Pour soustraire les chemins de fer fédéraux aux influences politiques
+
+L'administration et l'exploitation des chemins de fer rachetés par la Confédération ou construits par elle sont transférées à une entreprise publique indépendante de l'administration fédérale et ayant la personnalité juridique. Cette entreprise sera exploitée suivant les besoins de l'économie nationale et conformément aux principes commerciaux. Ses dépenses seront couvertes par ses propres recettes. Une partie du bénéfice net servira à alimenter un fonds destiné à la réduction des tarifs. Les organes de l'entreprise établiront les règles fondamentales d'administration et d'exploitation, y compris les ordonnances relatives aux rapports de service et à l'assurance du personnel. Le Conseil fédéral exerce la haute surveillance sur l'administration, la construction et l'exploitation. Il approuve les comptes annuels ainsi que les rapports de gestion. Il désigne les comptes annuels ainsi que les rapports de gestion. Il désigne les représentants de la Confédération dans les comités de surveillance et d’administration. Les membres des autorités législatives ou judiciaires fédérales ne peuvent faire partie des organes de l'entreprise de chemins de fer. Les cantons et les corporations de droit public, de même que les citoyens suisses individuellement auront la faculté de contribuer à la constitution du capital de l'entreprise. La moitié tout au moins du capital doit toujours appartenir à la Confédération.
+
+#1953
+Pour la sauvegarde des droits du peuple en matière fiscale
+
+Vu l'accroissement angoissant des dépenses de la Confédération, l’introduction et l'augmentation d'impôts et de redevances sont soumises à la votation du peuple, et cela même en cas d'urgence. Sont également considérés comme redevances dans ce sens les droits de douane de nature surtout fiscale, mais non les taxes purement administratives.
+Les impôts et redevances précités qui ont été introduits ou augmentés depuis l'adoption de l'arrêté fédéral du 13 octobre 1933 sur le nouveau programme financier de la Confédération, seront soumis à la votation du peuple dans le délai d'un an dès l'acceptation du présent article constitutionnel. De nouvelles dépenses ne pourront être décidées que si les ressources nécessaires sont disponibles ou si elles sont votées par la voie constitutionnelle régulière. L'Assemblée fédérale ne peut, en votant des dépenses, dépasser les propositions du Conseil fédéral.
+
+#1935
+Pour combattre la crise économique et ses effets
+
+La Confédération prend les mesures nécessaires pour combattre la crise économique et ses conséquences. Ces mesures ont pour but d'assurer des conditions d'existence suffisantes à tous les citoyens suisses. A cet effet, la Confédération veille: à maintenir le pouvoir de consommation du peuple en combattant la baisse générale des salaires et du prix de la production agricole et artisanale; à protéger les salaires et les prix de manière à assurer un revenu du travail suffisant; à procurer du travail par un effort méthodique et à réglementer le placement d'une manière rationnelle; à dégrever les entreprises agricoles surendettées et à alléger le service des intérêts pour permettre aux familles de paysans et de fermiers capables, de conserver leurs domaines; à dégrever les entreprises artisanales tombées dans la gêne sans leur faute; à garantir une assurance-chômage et une aide de crise suffisantes; à utiliser le pouvoir d'achat et la puissance financière du pays, pour développer l'exportation des produits industriels et agricoles ainsi que le tourisme; à réglementer le marché financier et à contrôler l'exportation des capitaux; à contrôler les cartels et les trusts.
+La Confédération peut faire appel aux cantons et aux organismes économiques pour l'accomplissement de ces tâches. La Confédération peut, quand l'exécution de ces mesures l'exige, déroger au principe de la liberté du commerce et de l’industrie. Pour financer ces mesures spéciales de crise, la Confédération met à disposition les sommes nécessaires, sous forme de crédits complémentaires. Elle se procure ces fonds par l'émission d'obligations à prime ou d'emprunts et sur ses recettes courantes. L'Assemblée fédérale édicte définitivement et sans retard, après l'adoption du présent article, les prescriptions nécessaires à son application. A chaque session ordinaire, le Conseil fédéral soumettra à l'Assemblée fédérale un rapport sur les mesures prises. Le présent article est valable pour une période de cinq ans à partir du jour de son adoption. La durée de validité peut être prolongée d'une nouvelle période de cinq ans au plus par un arrêté de l'Assemblée fédérale.
+
+#1937
+Contre les sociétés maçonniques
+
+Les citoyens suisses soussignés, aptes à voter en matière fédérale demandent, en vertu de l'article 121 de la constitution fédérale, que celle-ci soit révisée partiellement à son article 56, et que ledit article soit remplacé par un article 56 nouveau, qui aurait la teneur suivante: Les citoyens ont le droit de former des associations, pourvu qu'il n'y ait, dans le but de ces associations ou dans les moyens qu'elles emploient, rien d'illicite ou de dangereux pour l'Etat. Les lois cantonales statuent les mesures nécessaires à la répression des abus.
+Cependant les sociétés franc-maçonniques, les loges maçonniques et Odd Fellows, la société philanthropique Union et les associations affiliées ou similaires sont interdites en Suisse. Toute activité quelconque se rattachant directement ou indirectement à de semblables associations étrangères est également interdite sur le territoire suisse.
+
+#1948
+Pour la protection de l'armée et contre les agents provocateurs étrangers
+
+Celui qui, soit devant une assemblée ou un rassemblement de personnes, soit par la voie de la presse ou au moyen d'écrits ou d'images reproduits d'une autre manière, ou encore par la radiophonie ou le gramophone, aura provoqué à la désobéissance à un ordre militaire, à une violation des devoirs de service, au refus de servir ou à la désertion, celui qui, dans les mêmes conditions, aura lancé ou répandu des allégations qu'il sait être fausses et qui sont de nature à outrager l'armée, celui qui aura incité une personne astreinte au service personnel à la désobéissance à un ordre militaire, à une violation des devoirs de service, au refus de servir ou à la désertion, sera puni l'emprisonnement et, dans les cas de peu de gravité, de l’amende. La peine sera la réclusion ou l'emprisonnement si le délinquant a provoqué ou incité à la mutinerie ou au complot. Celui qui, sans y être autorisé, aura procédé sur le territoire suisse à des actes officiels au nom d'un Etat étranger, celui qui aura pratiqué sur le territoire suisse, dans l'intérêt d'un gouvernement étranger ou d'une autorité étrangère, un service de renseignements relatif à l'activité politique de personnes ou de partis, celui qui aura engagé autrui dans un tel service ou favorisé celui-ci, sera puni de l'emprisonnement ou, dans les cas graves, de la réclusion. Les étrangers seront en outre frappés de bannissement. Sera en particulier considéré comme circonstance aggravante le fait d'avoir provoqué à des actes susceptibles de compromettre la sûreté intérieure ou extérieure de la Suisse ou d'avoir donné de fausses informations de cette nature. Les dispositions générales du code pénal fédéral sont applicables. Les actes punissables sont soumis à la juridiction de la cour pénale fédérale, en tant que le Conseil fédéral n'en délègue pas l'instruction et le jugement aux autorités cantonales.
+
+#1935
+Pour la révision totale de la constitution
+
+Les citoyens suisses soussignés, aptes à voter en matière fédérale, demandent, en vertu de l'article 120 de la constitution fédérale, et en application de la loi fédérale du 27 janvier 1892 concernant le mode de procéder pour les demandes d'initiatives populaires et les votations relatives à la révision de la constitution fédérale, la révision totale de la constitution fédérale.
+
+#1936
+Pour le développement des routes alpestres et de leurs voies d'accès
+
+La Confédération assure le développement des principales routes alpestres utilisées par les voyageurs et les touristes, ainsi que de leurs voies d’accès. Les frais de construction sont à la charge de la Confédération. Les cantons intéressés peuvent être tenus de verser des contributions convenables. L'entretien des routes incombe aux cantons. La Confédération dispose librement d'une somme de vingt millions de francs, à prélever sur les droits de douane dus par les carburants nécessaires à la propulsion des véhicules routiers. La moitié du montant dépassant cette somme est mise à la disposition des cantons pour leurs dépenses routières; l'autre moitié est affectée au développement des routes alpestres et de leurs voies d’accès. Un arrêté fédéral règlera les détails.
+
+#1947
+Pour l’impôt de crise fédérale extraordinaire
+
+La Confédération perçoit un impôt extraordinaire destiné à couvrir les dépenses nécessitées par la lutte contre la crise économique, avant tout pour l'aide aux chômeurs et la création d'occasions de travail, comme aussi pour l'aide à l'agriculture et à d'autres branches économiques dans la détresse. Cet impôt sera perçu par période de quatre ans et renouvelé jusqu'à ce que le rendement revenant à la Confédération ait couvert les dépenses faites par la Confédération à partir du 1er janvier 1933 pour couvrir les dépenses occasionnées par la crise ; ces dépenses seront portées sur un compte spécial. S'il reste encore à couvrir en dernier lieu un montant inférieur au rendement probable d'une nouvelle perception de l'impôt, l'Assemblée fédérale décidera définitivement si et dans quelle mesure l'impôt doit être perçu encore une fois. Les personnes physiques acquittent cet impôt sur leur fortune et sur le produit de leur travail. L'obligation de payer l'impôt sur la fortune commence, pour les personnes dont le produit du travail est suffisant, avec une fortune qui excède vingt mille francs, pour les personnes dont le produit du travail est insuffisant, avec une fortune qui excède cinquante mille francs. Ce minimum est élevé d'une manière équitable pour les personnes ayant l'obligation d’assistance. L'obligation de payer l'impôt sur le produit du travail commence avec un produit du travail qui excède sept mille francs. Les montants du produit du travail exempt d'impôt sont élevés de mille francs pour des personnes mariées, de quatre cents francs pour chaque enfant âgé de moins de dix-huit ans et pour chaque personne vis-à-vis de laquelle celui qui acquiert le produit du travail remplit l'obligation d’assistance. Les taux de l'impôt sont progressifs et s'élèvent, par classes, de un à vingt-cinq pour mille sur la fortune nette et de un et demi à vingt pour cent sur le produit du travail net conformément aux tableaux I et II annexés au présent article constitutionnel. Les montants d'impôts indiqués au tableau II pour toute la période de perception de l'impôt sont réduits de cinquante francs pour les contribuables mariés ainsi que de vingt francs pour chaque enfant âgé de moins de dix-huit ans et pour chaque personne vis-à-vis de laquelle celui qui acquiert le produit du travail remplit l'obligation d’assistance. Sur le revenu provenant de tantièmes, il est perçu, en tant que la somme totale des tantièmes excède mille francs, un impôt supplémentaire double de celui qui est perçu sur le produit du travail calculé conformément au tableau II, mais qui s'élève au minimum à quatre pour cent des tantièmes. Les sociétés anonymes et les sociétés en commandite par actions acquittent l'impôt sur le capital-actions versé et sur les réserves. Le taux de l'impôt est progressif et s'élève, par classes, de un et demi pour mille à cent pour mille du capital-actions versé et des réserves. Il s'élève dans ces limites, suivant le rapport du revenu net annuel au capital-actions versé et aux réserves, conformément au tableau III annexé au présent article constitutionnel. Les sociétés dont le revenu net ne dépasse pas le un pour cent du capital-actions versé et des réserves, sont exonérées de l’impôt. Les sociétés coopératives, au sens du code des obligations, à l'exception des sociétés coopératives d'assurance concessionnaires, payent le 8 pour cent de leur revenu net; ne sont pas calculés dans le revenu net les ristournes et rabais accordés au sociétaires et aux clients. Les sociétés coopératives payent en outre le 2 pour mille de leur fortune propre (capital social et réserves). Les sociétés coopératives d'assurance concessionnaires payent l'impôt sur leurs primes suisses; le taux de l'impôt est fixé au six pour mille de ces primes. Les autres personnes morales payent l'impôt sur leur fortune. L'impôt est dû sur toute fortune excédant vingt mille francs. Le taux de l'impôt est le même que celui applicable aux personnes physiques, mais il ne peut être supérieur au cinq pour mille; les fondations de familles sont imposées sur la même base que les personnes physiques, selon tableau I sans cette restriction. Sont exonérés de l’impôt; la Confédération et les cantons, leurs établissements et leurs entreprises, ainsi que les fonds spéciaux dont ils ont l'administration, la caisse nationale suisse d'assurance en cas d'accident à Lucerne et la régie suisse des alcools;
+Les communes, ainsi que les autres corporations et établissements de droit public et ecclésiastique, pour la partie de leur fortune dont le capital ou le revenu est affecté à des services publics; les autres corporations et établissements pour la partie de leur fortune dont le capital ou le revenu est affecté aux cultes ou à l'instruction ou à l'assistance des pauvres, des malades, des vieillards ou des invalides ou à d'autres buts exclusivement d'utilité publique. Il peut être accordé une réduction ou une remise totale de l'impôt aux contribuables qui sont tombés dans le besoin du fait de la crise ou dont la situation est telle, pour tout autre motif, que le payement de l'impôt de crise aurait pour eux des conséquences particulièrement pénibles. Pur chaque période de quatre ans il est procédé à une nouvelle taxation. Taxation et perception sont effectuées par les cantons, sous la surveillance de la Confédération. La taxation personnelle est obligatoire. L'impôt est perçu par tranches. Les cantons verseront à la Confédération le soixante-dix pour cent des contributions encaissées. Ils doivent utiliser en premier lieu la part qui leur revient sur le produit de l'impôt de crise à couvrir les dépenses cantonales et communales occasionnées par la lutte contre la crise économique. L'Assemblée fédérale édictera à titre définitif les prescriptions concernant l'exécution du présent article constitutionnel, ainsi que celles destinées à assurer la perception uniforme de l'impôt, et arrêtera le montant des dépenses de crise.
+
+#1947
+Pour une aide aux vieillards et survivants
+
+Dès le 1er janvier 1932 et jusqu'à la mise en oeuvre de l'assurance - vieillesse et survivants, la Confédération prélèvera chaque année, sur les recettes et les intérêts du fonds d'assurance - vieillesse, une somme de 25 millions de francs destinée à une action de secours en faveur des vieillards et des survivants. Cette somme sera répartie entre tous les cantons proportionnellement au nombre des personnes de nationalité suisse et âgées de plus de 65 ans, tel qu'il résulte du recensement fédéral. Les cantons emploieront la part qui leur reviendra à l'allocation de rentes de vieillesse aux vieillards de plus de 65 ans et de secours aux veuves et orphelins. Ces prestations seront faites à des personnes de nationalité suisse qui ne peuvent, par leurs propres moyens et pensions, subvenir d'une manière suffisante à leur entretien. Les cantons assureront gratuitement l'exécution de cette action de secours. Ils pourront recourir à la collaboration d'institutions d'utilité publique. Le Conseil fédéral et les gouvernements cantonaux édicteront par voie d'ordonnance les dispositions d'exécution nécessaires.
+
+#1931
+Contre les décorations
+
+Il est interdit à tout Suisse d'accepter du gouvernement d'un Etat étranger des pensions ou traitements, des titres, présents, décorations ou insignes. La contravention à cette interdiction entraîne la perte des droits politiques. Le Conseil fédéral peut déclarer l'interdiction non applicable à des Suisses qui ont leur domicile permanent à l'étranger, s'ils en font la demande. Il n'est pas interdit d'accepter des pensions et des traitements payés par des Etats étrangers en vertu d'un contrat de travail ou d’engagement.
+
+#1929
+Pour la législation sur la circulation routière
+
+La législation sur la circulation routière est du domaine de la Confédération. Les cantons conservent le droit d'édicter, dans les limites de la législation fédérale sur la circulation routière, des prescriptions qui tiennent compte des conditions locales particulières. La Confédération peut se charger de la construction et de l'entretien de routes de transit ou y participer. La Confédération répartit entre les cantons le produit des droits de douane, impôts et autres redevances qu‘elle perçoit sur les matières qui fournissent l'énergie motrice des véhicules à moteur. Font règle pour la répartition les dépenses affectées par les cantons à la construction et à l'entretien de routes dont la Confédération reconnaît qu'elles sont importantes pour le trafic. La Confédération a le droit de conserver une part convenable des recettes réalisées en conformité de la disposition ci-dessus, lorsqu'elle se charge de la construction et de l'entretien de routes de transit ou y participe.
+
+#1929
+Pour le maintien des kursaals
+
+Il est interdit d'ouvrir et d'exploiter des maisons de jeu. Les gouvernements cantonaux peuvent, à certaines conditions dictées par l'intérêt public, autoriser les jeux d'agrément en usage dans les kursaals jusqu'au printemps 1925, en tant que l'autorité compétente estime ces jeux nécessaires au maintien ou au développement du tourisme et que leur organisation est assurée par une entreprise exploitant à cette fin un kursaal. Les cantons peuvent également interdire de tels jeux. Une ordonnance du Conseil fédéral déterminera les conditions dictées par l'intérêt public. La mise ne devra pas dépasser deux francs. Les autorisations cantonales sont soumises à l'approbation du Conseil fédéral. Le quart des recettes brutes des jeux sera versé à la Confédération qui l'affectera, sans égard à ses propres prestations, aux victimes des dévastations naturelles, ainsi qu'à des oeuvres d'utilité publique.
+
+#1929
+Pour un approvisionnement du pays en blé
+
+La Confédération prend des mesures pour assurer l'approvisionnement du pays en blé et encourager la culture des céréales dans le pays. Elle doit notamment entretenir elle-même des réserves de blé ou pourvoir à ce qu'il en soit constitué de toute autre façon; faciliter et encourager par des prescriptions et des mesures appropriées la culture ainsi que l'utilisation et la transformation du blé du pays; en particulier, assurer aux producteurs de blé de bonne qualité et propre à la mouture la vente à un prix qui permette la culture du blé dans le pays. Il sera tenu compte dans une mesure équitable des intérêts de ceux qui cultivent du blé pour leur propre consommation ainsi que des intérêts des régions montagneuses. La législation fédérale déterminera l'application de ces principes. Toutefois, elle ne pourra attribuer ni à la Confédération, ni à un organisme privé le droit exclusif d'importer du blé (monopole), les nécessités du temps de guerre demeurant réservées.
+
+#1922
+Pour une réforme de l'administration fédérale, chemins de fer fédéraux y compris
+
+Les soussignés, citoyens suisses, jouissant de leurs droits civiques et politiques, demandent l'introduction d'un nouvel article, aux termes duquel l'Administration fédérale entière, chemins de fer fédéraux y compris, doit être organisée d'après le principe de la plus grande simplicité et la plus stricte économie, et ses diverses branches doivent être dirigées dans un esprit commercial. Cet article doit exiger la promulgation immédiate d'une loi fédérale qui extirpe de l'Administration fédérale, y compris les chemins de fer fédéraux, toute bureaucratie et toute complication dans les services, en général, en particulier abroge les dispositions relatives à l'organisation de l'administration des chemins de fer fédéraux, contenues dans la loi concernant l'acquisition et l'exploitation des chemins de fer, du 15 octobre 1897, garantit l'exploitation la plus économe, et pose le principe de la responsabilité des personnes participant à la direction.
+
+#1923
+Pour des douanes
+
+la Constitution fédérale reçoit la teneur suivante: La perception des péages fédéraux sera réglée conformément aux principes suivants des droits sur l’importation: Les denrées alimentaires et les objets nécessaires à la vie seront taxés aussi bas que possible; Il en sera de même des matières nécessaires à l'industrie et à l'agriculture;
+Les objets de luxe seront soumis aux taxes les plus élevées. – A moins d'obstacles majeurs, ces principes devront aussi être observés lors de la conclusion de traités de commerce avec l’étranger. Les droits sur l'exportation seront, le cas échéant, aussi modérés que possible.
+La législation des péages contiendra des dispositions propres à assurer le commerce frontière et sur les marchés. – Les droits sur l'importation et l'exportation seront fixés par voie de la législation fédérale. Les arrêtés urgents ne pourront pas être soustraits au référendum. – Les dispositions ci-dessus n'empêchent point la Confédération de prendre temporairement des mesures exceptionnelles dans les circonstances extraordinaires. Ces mesures peuvent être prises par le Conseil fédéral et mises provisoirement en vigueur; elles doivent toutefois être soumises pour approbation rétrospective à l'Assemblée fédérale soit immédiatement soit, si cette Assemblée ne siège pas, à sa prochaine session. Si ces mesures ne sont pas approuvées dans le délai de trois mois après leur publication, le Conseil fédéral doit les mettre immédiatement hors de vigueur. – L'approbation de l'Assemblée fédérale est donnée sous forme d'arrêté fédéral sans clause d'urgence. Lorsqu'un arrêté fédéral de ce genre est rejeté le cas échéant en votation populaire, le Conseil fédéral doit rapporter les mesures spéciales immédiatement, en tout cas au plus tard trois mois après la décision populaire.
+
+#1929
+Contre l'eau-de-vie
+
+Les cantons et les communes sont autorisés à interdire sur leur territoire la fabrication et la vente des boissons distillées. L'interdiction peut être décidée ou abrogée, soit dans les formes prévues par le droit cantonal, soit, à la demande d'un dixième des électeurs, par votation populaire dans le canton ou la commune.
+
+#1922
+Pour le prélèvement d'un impôt unique sur la fortune
+
+La Confédération prélève un impôt unique sur la fortune à l'effet de lui permettre, ainsi qu'aux cantons et aux communes, de réaliser leurs tâches sociales. Les personnes naturelles et juridiques sont soumises à l’impôt. Sont exonérés de l’impôt: La Confédération et les cantons et leurs établissements et exploitations, ainsi que les fonds spéciaux dont ils ont la gérance, la Banque nationale suisse, la Caisse nationale d'assurance en cas d'accidents et la Régie fédérale des alcools; Les communes, ainsi que les autres corporations et établissements de droit public et ecclésiastiques, pour la fortune qui sert comme telle ou par son produit aux intérêts publics; Les autres corporations et établissements, pour la fortune qui sert comme telle ou par son produit au culte et à l'instruction publique ou aux oeuvres sociales en faveur des pauvres et des malades, ainsi que pour la vieillesse et l'invalidité ou autres buts d'intérêt exclusivement général.
+La fortune totale est soumise à l'impôt, après déduction des dettes. Demeurent réservées les dispositions des nos 5, 6 et 9. Le mobilier jusqu'à concurrence de Fr. 50'000 n'est pas considéré, pour les personnes naturelles, comme fortune imposable. Ne sont pas considérés comme fortune imposable pour les personnes juridiques : le capital social versé; les réserves destinées uniquement à des buts d'intérêt général ou d'utilité publique, dont l'emploi à ces fins est assuré. Fait règle pour la fixation de l'impôt la fortune réunie des époux qui ne vivent pas en permanence séparés l'un de l’autre. Le 31 décembre 1922 est réputé délai de rigueur pour ce qui concerne l'obligation personnelle et matérielle de payer l'impôt, ainsi que pour l’estimation.
+
+#1922
+Pour l’éligibilité des fonctionnaires fédéraux au Conseil national
+
+Les députés au Conseil des Etats et les membres du Conseil fédéral ne peuvent être simultanément membres du Conseil national; il en est de même des chefs de service directement soumis aux chefs des départements du Conseil fédéral, ainsi que des membres de la direction générale et des directions d'arrondissement des chemins de fer fédéraux. La législation fédérale réglera les conditions auxquelles les autres fonctionnaires et employés de l'administration fédérale et des chemins de fer fédéraux pourront faire partie du Conseil national. Jusqu'à la promulgation des dispositions législatives à édicter, le Conseil fédéral est autorisé à fixer ces conditions par voie d’ordonnance.
+
+#1922
+Pour une acquisition de la nationalité suisse — Pour l’expulsion d'étrangers
+
+L'étranger obtient la nationalité suisse en se faisant recevoir citoyen d'une commune et d'un canton. Il doit demander à cet effet l'autorisation préalable du Conseil fédéral. Celle-ci ne pourra être accordée que si, au cours des quinze années qui ont précédé sa demande, l'étranger a eu en Suisse son domicile effectif pendant au moins douze ans, dont deux ans immédiatement avant le dépôt de la demande. Cette restriction ne s'applique ni à la femme mariée, laquelle acquiert de plein droit la nationalité du mari, ni aux enfants âgés de moins de quinze ans, lorsqu'ils sont naturalisés en même temps que leurs parents.
+Les étrangers naturalisés qui n'ont pas eu en Suisse leur domicile effectif pendant au moins douze ans depuis l'âge de cinq ans révolus jusqu' à la majorité ne sont pas éligibles comme membres des Autorités politiques fédérales, cantonales et communales. En autorisant la naturalisation, le Conseil fédéral recherche si cette condition est réalisée et décide si par conséquent le nouveau citoyen suisse est éligible. Pour le surplus la législation fédérale fixera les conditions auxquelles les étrangers peuvent être naturalisés. Elle facilitera la naturalisation des étrangers nés et élevés en Suisse; elle pourra décréter leur naturalisation de plein droit. La législation fédérale fixera également les conditions auxquelles un Suisse peut renoncer à sa nationalité pour acquérir la naturalisation dans un pays étranger. La Confédération a le droit et le devoir de renvoyer de son territoire les étrangers qui compromettent la sûreté intérieure ou extérieure de la Suisse ou la prospérité du peuple suisse. Cette disposition vise en particulier ceux qui participent à des mouvements anticonstitutionnels ou à des entreprises politiques de nature à troubler les bonnes relations de la Suisse avec les Etats étrangers, ainsi que ceux qui se livrent à une activité économique contraire aux règles de la loyauté commerciale et aux intérêts généraux de l'économie nationale. Le Conseil fédéral est chargé de l'application de cette disposition. Les autorités cantonales de police lui signaleront, par l'intermédiaire du Ministère public fédéral, les étrangers à expulser. 
+
+#1925
+Pour une assurance invalidité, vieillesse et survivants
+
+La Confédération introduira, par voie législative, l'assurance en cas d'invalidité, l'assurance en cas de vieillesse et l'assurance des survivants. Elle peut déclarer ces assurances obligatoires en général ou pour certaines catégories déterminées de citoyens. Ces assurances seront appliquées avec le concours des cantons, auquel peut s'ajouter celui des caisses d'assurance publiques et privées. En vue de l'accomplissement de cette tâche, la Confédération crée un fonds. Il sera attribué à ce fonds, comme premier versement, un montant de deux cent cinquante millions de francs, qui sera prélevé sur le produit de l'impôt sur les bénéfices de guerre dès que le présent article constitutionnel aura été adopté.
+
+#1923
+Pour l’arrestation des citoyens suisses qui compromettent la sûreté intérieure du pays
+
+Le pouvoir fédéral a l'obligation de mettre sans délai en arrestation des citoyens suisses qui compromettraient la sûreté intérieure du pays.
+
+#1918
+Pour l’introduction de l'impôt fédéral direct
+
+La Confédération perçoit annuellement un impôt direct et progressif sur la fortune et sur le revenu des personnes physiques. Sont exempts de l'impôt les fortunes nettes de moins de 20'000 francs et les revenus qui, le rendement de la fortune compris, n'atteignent pas 5000 francs. La succession de celui qui est astreint à l'impôt fédéral est inventoriée d'office à son décès. La Confédération prélève de même annuellement un impôt direct des personnes juridiques. Sont exempts de l'impôt les corporations de droit public et tous les établissements et entreprises, pour autant que leur fortune ou leurs revenus son affectés à des buts d'utilité publique; de même toutes corporations et tous établissements dont la fortune ou le revenu servent au culte, à l'instruction, à des oeuvres de charité ou au soin des malades. La législation fédérale édictera les dispositions de détail sur l'étendue de l'imposition, le mode et les taux de la taxation et le mode de perception de l'impôt, tant à l'égard des personnes physiques que des personnes morales. La perception incombe aux cantons. La Confédération supporte les frais de taxation et de perception. Un dixième du produit de l'impôt revient aux cantons.
+
+#1921
+Pour la suppression de la justice militaire
+
+La justice militaire est supprimée. Les délits visés par le code pénal militaire seront déférés, pour l'instruction et le jugement, à la justice ordinaire du canton dans lequel ils ont été commis. La procédure à suivre est fixée par le code de procédure en vigueur dans le canton. Le jugement rendu en dernier ressort par le tribunal du canton peut être déféré au Tribunal fédéral par un pourvoi en cassation. Les arrêts infligés comme peine disciplinaire ou d'ordre ne peuvent excéder dix jours. La peine ne peut être aggravée ni par une réduction de l'alimentation ni par le retrait de la lumière du jour. Le droit de porter plainte contre une peine disciplinaire est garanti ; l'exercice de ce droit ne peut entraîner aucune punition.
+
+#1921
+Contre les maisons de jeu
+
+La Confédération fixe les principes applicables aux réseaux de chemins et de sentiers Les deux premiers alinéas de l'article 35 de la constitution fédérale sont abrogés ; ils sont remplacés par les dispositions suivantes: Il est interdit d'ouvrir des maisons de jeu. Est considérée comme maison de jeu, toute entreprise qui exploite des jeux de hasard. Les exploitations de jeux de hasard actuellement existantes doivent être supprimées dans le délai de cinq ans dès l'adoption de la présente disposition.
+
+#1921
+Pour un référendum facultatif en matière de traités internationaux
+
+Les traités internationaux conclus pour une durée indéterminée ou pour plus de 15 ans sont soumis également à l'adoption ou au rejet du peuple si la demande en est faite par 30'000 citoyens actifs ou par huit cantons.
+
+#1910
+Pour une élection proportionnelle du Conseil national
+
+Les élections pour le Conseil national sont directes. Elles ont lieu d'après le principe de la proportionnalité, chaque canton ou demi-canton formant un collège électoral. La législation fédérale édictera les dispositions de détail pour l'application de ce principe. Jusqu'à la promulgation de la loi fédérale sur la matière, l'application du principe de la proportionnalité sera réglée par un arrêté du Conseil fédéral. Les élections d'après le système proportionnel auront lieu pour la première fois lors du renouvellement intégral du Conseil national en 1911.
+
+#1908
+Contre la fabrication, l'importation, le transport, la vente, la détention de l’absinthe
+
+La Confédération prend des mesures pour que l’économie respecte davantage les droits de La fabrication, l'importation, le transport, la vente, la détention pour la vente de la liqueur dite absinthe sont interdits dans toute l'étendue de la Confédération. Cette interdiction s'étend à toutes les boissons qui, sous une dénomination quelconque, constitueraient une imitation de l'absinthe. Le transport en transit et l'emploi de l'absinthe à des usages pharmaceutiques restent réservés. L'interdiction ci-dessus entrera en vigueur deux ans après son adoption. La législation fédérale statuera les dispositions nécessaires ensuite de cette prohibition. La Confédération a le droit de décréter la même interdiction par voie législative à l'égard de toutes les autres boissons contenant de l'absinthe, qui constitueraient un danger public.
+
+#1908
+Pour l’utilisation des forces hydrauliques
+
+La législation sur l'utilisation des forces hydrauliques ainsi que sur le transport et la distribution de l'énergie provenant de forces hydrauliques appartient à la Confédération.
+Toutefois, les cantons ou les ayants droit désignés par la législation cantonale perçoivent seuls les taxes et redevances à payer pour l'usage des forces hydrauliques. A partir de la promulgation du présent article, toute nouvelle concession ne sera octroyée que sous réserve des dispositions de la future législation fédérale, et l'énergie produite par la force hydraulique ne pourra être exportée à l'étranger sans l'autorisation du Conseil fédéral.
+
+#1903
+Pour l’élection du Conseil fédéral basée sur la population de nationalité suisse 
+
+Le Conseil national se compose des débutés du peuple suisse, élus à raison d'un membre par 20'000 âmes de la population de nationalité suisse. Les fractions au-dessus de 10'000 âmes sont compté pour 20’000. Chaque canton et, dans les cantons partagés, chaque demi-canton élit un député au moins.
+
+#1900
+Pour l’élection du Conseil fédéral par le peuple et augmentation du nombre des membres de cette autorité
+
+L'autorité directoriale et exécutive supérieure de la Confédération est exercée par un Conseil fédéral sont nommés, pour trois ans, par les citoyens suisses ayant droit de vote. L'élection a lieu le jour des élections au Conseil national, avec entrée en fonctions le 1er janvier suivant. L'élection s'opère un seul collège embrassant toute la Suisse. Il n'est procédé qu'à deux tours de scrutin, dont le second est également libre. L'élection a lieu, au premier tour, à la majorité absolue ; au second tour, à la majorité relative. Est éligible tout citoyen suisse qui est éligible au Conseil national. On ne pourra, toutefois, choisir plus d'un membre du Conseil fédéral dans le même canton, et deux membres au moins devront appartenir à la Suisse romande. Les vacances qui se produisent dans l'intervalle des trois ans sont immédiatement repourvues pour le reste de la période, à moins que le renouvellement intégral ne doive intervenir dans les six mois. Le Conseil fédéral ne peut délibérer que lorsqu'il y a au moins cinq membres présents. L'organisation de l'administration fédérale sera réglée par la voie législative. Jusqu'à la promulgation d'une loi sur la matière, les affaires du Conseil fédéral seront réparties par départements entre ses membres, les décisions émanant du Conseil fédéral en corps.
+
+#1900
+Pour l’élection proportionnelle pour les membres du Conseil national
+
+Les élections pour le Conseil national sont directes. Elles ont lieu d'après le principe de la proportionnalité, chaque canton et chaque demi-canton formant un collège électoral. La législation fédérale édicte les dispositions de détail pour l'application de ce principe. L'autorité directoriale et exécutive supérieure de la Confédération est exercée par un Conseil fédéral composé de neuf membres. Les membres du Conseil fédéral sont nommés, pour trois ans, par les citoyens suisses ayants droit de vote. L'élection a lieu le jour des élections au Conseil national, avec entrée en fonction le 1er janvier suivant. L'élection s'opère en un seul collège embrassant toute la Suisse. Il n'est procédé qu'à deux tours de scrutin, dont le second est également libre. L'élection a lieu, au premier tour, à la majorité absolue; au second tour, à la majorité relative. Est éligible tout citoyen suisse qui est éligible au Conseil national. On ne pourra, toutefois, choisir plus d'un membre du Conseil fédéral dans le même canton, et deux membres au moins devront appartenir à la Suisse romande. Les vacances qui se produisent dans l'intervalle des trois ans sont immédiatement repourvues pour le reste de la période, à moins que le renouvellement intégral ne doive intervenir dans les six mois. Le Conseil fédéral ne peut délibérer que lors qu'il y a au moins cinq membres présents. L'organisation de l'administration fédérale sera réglée par la voie législative. Jusqu'à la promulgation d'une loi sur la matière, les affaires du Conseil fédéral seront réparties par départements entre ses membres, les décisions émanant du Conseil fédéral en corps.
+
+#1894
+Pour la gratuité des soins médicaux à donner aux malades et le monopole du tabac
+
+La Confédération, avec le concours des cantons pour quant à l'organisation et l'administration, et en employant dans ce but le produit net du monopole des tabacs, procure gratuitement à la population les conseils et l'assistance du médecin, ainsi que les remèdes nécessaires. Elle accordera, en outre, aux cantons des subventions pour le traitement gratuit des indigents à l'hôpital et pour la création d’hôpitaux. La Confédération introduit le monopole des tabacs qui consiste dans le droit exclusif de fabrication du tabac, d'importation et de vente des tabacs et tabacs manufacturés; elle peut, en outre, édicter des dispositions législatives sur les succédanés de tabacs. Le prix des tabacs et cigares de qualité inférieure ne doit pas être augmenté par le monopole. La législation fédérale favorise la culture du tabac et la fabrication à l'intérieur; elle détermine dans quelle mesure les organes des cantons ont à coopérer à l'administration du monopole des tabacs. Les cantons qui, avant 1893, percevaient un impôt sur la fabrication ou la vente du tabac, recevront une indemnité convenable pour la suppression de cet impôt.
+
+#1894
+Pour faire répartir, entre les cantons, une partie des recettes des douanes
+
+La Confédération doit payer aux cantons, chaque année, sur le produit total des péages, deux francs par tête d'habitant, en prenant pour base le chiffre de la population de résidence ordinaire établi par le dernier recensement fédéral. Cette disposition constitutionnelle entre, pour la première fois, en vigueur l'année 1895.
+
+#1894
+Pour le droit au travail
+
+Les citoyens suisses soussignés, se basant sur l'article 121 de la constitution fédérale et la loi fédérale du 27 janvier 1892, concernant le mode de procéder pour les demandes d'initiative populaire et les votations relatives à la révision de la constitution fédérale, réclament une votation populaire sur la proposition qu'ils font d'introduire dans la constitution fédérale l'article suivant. Le droit à un travail suffisamment rétribué est reconnu à chaque citoyen suisse. La législation fédérale, celles des cantons et des communes doivent rendre ce droit effectif par tous les moyens possibles. En particulier, il y a lieu de prendre les mesures suivantes: de réduire les heures de travail dans le plus grand nombre possible de branches d'industrie, dans le but de rendre le travail plus abondant; d'organiser des institutions telles que bourses du travail destinées à procurer gratuitement du travail à ceux qui en auront besoin, et que l'on placerait directement dans les mains des ouvriers; de protéger légalement les ouvriers contre les renvois injustifiés; d'assurer, d'une façon suffisante, les travailleurs contre les suites du manque de travail, soit au moyen d'une assurance publique, soit en assurant les ouvriers à des institutions privées à l'aide des ressources publiques; de protéger efficacement le droit d‘association, en faisant en sorte que la formation d'associations ayant pour but de défendre les intérêts des ouvriers contre les patrons ne soit jamais empêchée, non plus que l'entrée dans ces associations;
+d'établir une juridiction officielle des ouvriers vis-à-vis de leurs patrons et d'organiser d'une manière démocratique le travail dans les fabriques et ateliers, notamment dans ceux de l'état et des communes.
+
+#1893
+Contre abattre le bétail de boucherie sans l'avoir préalablement étourdi
+
+Il est expressément interdit de saigner les animaux de boucherie sans les avoir étourdis préalablement; cette disposition s’applique à tout mode d’abattage et à toute espèce de bétail.
