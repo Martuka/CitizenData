@@ -1,4 +1,3 @@
 [DEFAULT]
-dataset_dechron_file = Dataset/Initiatives_Populaires_2016.txt
-dataset_chron_file = Dataset/Initiatives_Populaires_1893.txt
+dataset_dechron_file = Dataset/Initiatives_Populaires_2016_1893.txt
 tagdir = /path/to/tree-tagger
