@@ -10,40 +10,48 @@ from utils import *
 
 
 def main():
-	config = configparser.ConfigParser()
-	config.read('config.conf')
-	dataset_chron_file = config['DEFAULT']['dataset_chron_file']
-	dataset_dechron_file = config['DEFAULT']['dataset_dechron_file']
-	tagdir = config['DEFAULT']['tagdir']
 
-	# tokenizer to split text by sentences
-	# tokenizer = nltk.data.load('tokenizers/punkt/PY3/french.pickle')
+    # read config file
+    config = configparser.ConfigParser()
+    config.read('config.conf')
+    dataset_dechron_file = config['DEFAULT']['dataset_dechron_file']
+    tagdir = config['DEFAULT']['tagdir']
 
-	# tokenizer to split text by words
-	tokenizer = nltk.tokenize.TreebankWordTokenizer()
+    # tokenizer to split text by sentences
+    # tokenizer = nltk.data.load('tokenizers/punkt/PY3/french.pickle')
 
-	# tagger initialisation for french pos tagging
-	tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr', TAGDIR=tagdir)
+    # tokenizer to split text by words
+    tokenizer = nltk.tokenize.TreebankWordTokenizer()
 
-	initiatives_list = list()
-	dataset = list_the_file(dataset_dechron_file)
+    # tagger initialisation for french pos tagging
+    tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr', TAGDIR=tagdir)
 
-	# create list of initiatives from the dataset
-	for i in range(len(dataset)):
-		if (dataset[i] != '') and (dataset[i][0] == "#"):
-			initiative = Initiative(dataset[i+1], dataset[i+3])
-			initiatives_list.append(initiative)
-		else:
-			continue
+    dataset = list_the_file(dataset_dechron_file)
 
-	# text analyze and predictions
-	for i in range(len(initiatives_list)):
-		# display_text_in_tty(None)
-		analyze_current_dataset(tokenizer, tagger, initiatives_list[0:i+1])
-		# display_word_info()
-		# display_prediction()
-		print("\n\nSleep 4 seconds...")
-		time.sleep(4)
+    initiatives_list_dechron = []
+
+    # create list of initiatives from the dataset
+    # (dechronological order, as per the file)
+    for i in range(len(dataset)):
+        opinion = ''
+        if (dataset[i] != '') and (dataset[i][0] == "#"):
+            if dataset[i+1][0:4] == "Pour":
+                opinion = 'pour'
+            elif dataset[i+1][0:4] == "Cont":
+                opinion = 'contre'
+            initiative = Initiative(dataset[i+1], dataset[i+3], dataset[i][1:5], opinion)
+            initiatives_list_dechron.append(initiative)
+        else:
+            continue
+
+    initiatives_list_chron = initiatives_list_dechron[::-1]
+
+    # text analyze and predictions
+    for i in range(len(initiatives_list_chron)):
+        # TODO spawn two threads for chronological and dechronological order
+        treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
+        print("\n\nSleep 4 seconds...")
+        time.sleep(4)
 
 if __name__ == "__main__":
-	main()
+    main()

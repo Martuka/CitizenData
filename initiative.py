@@ -1,12 +1,19 @@
 class Initiative:
-	"""
-	Class defining an initiative with
+	"""Class defining an initiative with
 	- its title
 	- its content
-	- for or against
+	- its date of apparition
+	- its opinion (for or against)
 	"""
 
-	def __init__(self, title=None, content=None):
-		self.title, self.content = title, content
+	def __init__(self, title=None, content=None, date=None, opinion=None):
+		self.title = title
+		self.content = content
+		self.date = date
+		self.opinion = opinion
 	def __repr__(self):
-		return "Initiative: {}\nTexte: {}\n".format(self.title, self.content)
+		return "{} - {} - {} - {}" \
+		.format(self.date, self.title, self.content, self.opinion)
+	def __str__(self):
+		return "Initiative: {} {}\nTexte: {}\n" \
+		.format(self.date, self.title, self.content)
