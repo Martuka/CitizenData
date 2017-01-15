@@ -7,9 +7,12 @@ import treetaggerwrapper
 import time
 from initiative import Initiative
 from utils import *
+import gui
 
 
 def main():
+
+    gui.init()
 
     # read config file
     config = configparser.ConfigParser()
@@ -48,9 +51,15 @@ def main():
 
     # text analyze and predictions
     for i in range(len(initiatives_list_chron)):
-        # TODO spawn two threads for chronological and dechronological order
         treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
-        print("\n\nSleep 4 seconds...")
+        initiative = initiatives_list_chron[i]
+        gui.print_srt(gui.inner_text_win, 2, 1, initiative.title)
+        gui.print_srt(gui.inner_text_win, 3, 1, initiative.content)
+        gui.display_year(gui.win_date, initiative.date, "green")
+
+        # gui.win_nouns
+
+        # sleep 4 seconds
         time.sleep(4)
 
 if __name__ == "__main__":

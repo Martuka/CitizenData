@@ -7,6 +7,21 @@ from collections import Counter, defaultdict
 from multiprocessing.pool import Pool
 
 
+global nouns_chron_prediction_list
+global adj_chron_prediction_list
+global verbs_chron_prediction_list
+
+global pour_chron_predictions_list
+global contre_chron_predictions_list
+
+global nouns_dechron_prediction_list
+global adj_dechron_prediction_list
+global verbs_dechron_prediction_list
+
+global pour_dechron_predictions_list
+global contre_dechron_predictions_list
+
+
 # dictionaries of type {'word': []}
 nouns_matrix_chron = defaultdict(lambda: [])
 nouns_matrix_dechron = defaultdict(lambda: [])
@@ -117,86 +132,8 @@ def merge_tuple_list(lst1, lst2):
     return sorted(counter.items(), key=operator.itemgetter(1), reverse=True)
 
 
-def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
-    """Handles the growing list of initiatives chronologically and
-    dechronologically, performs analyses and predictions
-    """
-    global loop_count
-    loop_count += 1
-    print("\nLoop number {}".format(loop_count))
-
-    current_initiative_chron = partial_chron[-1]
-    current_initiative_dechron = partial_dechron[-1]
-
-    global nouns_matrix_chron
-    global nouns_matrix_dechron
-    global adj_matrix_chron
-    global adj_matrix_dechron
-    global verbs_matrix_chron
-    global verbs_matrix_dechron
-
-    # WTF DOES IT NOT WORK ???
-    # with Pool() as pool:
-    #     result_chron = pool.apply_async(extract_top_words, args=(tokenizer, tagger, partial_chron,))
-    #     result_dechron = pool.apply_async(extract_top_words, args=(tokenizer, tagger, partial_dechron, ))
-    #
-    # values_chron = result_chron.get()
-    # values_dechron = result_dechron.get()
-
-    values_chron = extract_top_words(tokenizer, tagger, partial_chron)
-    values_dechron = extract_top_words(tokenizer, tagger, partial_dechron)
-
-    # update the nouns matrix
-    feed_matrix(nouns_matrix_chron, values_chron['nouns'])
-    feed_matrix(nouns_matrix_dechron, values_dechron['nouns'])
-    feed_matrix(adj_matrix_chron, values_chron['adjectives'])
-    feed_matrix(adj_matrix_dechron, values_dechron['adjectives'])
-    feed_matrix(verbs_matrix_chron, values_chron['verbs'])
-    feed_matrix(verbs_matrix_dechron, values_dechron['verbs'])
-    feed_matrix(pour_matrix_chron, values_chron['pour'])
-    feed_matrix(pour_matrix_dechron, values_dechron['pour'])
-    feed_matrix(contre_matrix_chron, values_chron['contre'])
-    feed_matrix(contre_matrix_dechron, values_dechron['contre'])
-
-    # print("\nOrdered nouns chron : ")
-    # print(values_chron['nouns'])
-    # print("\nNouns matrix chron : ")
-    # print(nouns_matrix_chron)
-
-    # data for chronological screen
-    date_chron = current_initiative_chron.date
-    top_20_nouns_chron = get_most_frequent_words_tuples(nouns_matrix_chron)[:20]
-    top_20_adj_chron = get_most_frequent_words_tuples(adj_matrix_chron)[:20]
-    top_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[:20]
-
-    # print("\nTop 20 nouns ordered list of frequencies:")
-    # print(top_20_nouns_chron)
-    # print("Pour matrix = ", pour_matrix_chron)
-
-    # data for dechronological screen
-    date_dechron = current_initiative_dechron.date
-    top_20_nouns_dechron = get_most_frequent_words_tuples(nouns_matrix_dechron)[:20]
-    top_20_adj_dechron = get_most_frequent_words_tuples(adj_matrix_dechron)[:20]
-    top_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[:20]
-
-    # predictions
-    nouns_chron_prediction_list = get_list_predictions(top_20_nouns_chron)
-    adj_chron_prediction_list = get_list_predictions(top_20_adj_chron)
-    verbs_chron_prediction_list = get_list_predictions(top_20_verbs_chron)
-
-    pour_chron_predictions_list = get_opinion_prediction(pour_matrix_chron)
-    contre_chron_predictions_list = get_opinion_prediction(contre_matrix_chron)
-
-    nouns_dechron_prediction_list = get_list_predictions(top_20_nouns_dechron)
-    adj_dechron_prediction_list = get_list_predictions(top_20_adj_dechron)
-    verbs_dechron_prediction_list = get_list_predictions(top_20_verbs_dechron)
-
-    pour_dechron_predictions_list = get_opinion_prediction(pour_matrix_dechron)
-    contre_dechron_predictions_list = get_opinion_prediction(contre_matrix_dechron)
-
-
-
 def extract_top_words(tokenizer, tagger, partial_list):
+    # print("extract top words function started...")
     # Structures of interest
     title_tokens = []
     content_tokens = []
@@ -275,6 +212,77 @@ def extract_top_words(tokenizer, tagger, partial_list):
     return result
 
 
+def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
+    """Handles the growing list of initiatives chronologically and
+    dechronologically, performs analyses and predictions
+    """
+    global loop_count
+    loop_count += 1
+    # print("\nLoop number {}".format(loop_count))
+
+    current_initiative_chron = partial_chron[-1]
+    current_initiative_dechron = partial_dechron[-1]
+
+    global nouns_matrix_chron
+    global nouns_matrix_dechron
+    global adj_matrix_chron
+    global adj_matrix_dechron
+    global verbs_matrix_chron
+    global verbs_matrix_dechron
+
+    # WTF DOES IT NOT WORK ???
+    # with Pool() as pool:
+    #     result_chron = pool.apply_async(extract_top_words, args=(tokenizer, tagger, partial_chron,))
+    #     result_dechron = pool.apply_async(extract_top_words, args=(tokenizer, tagger, partial_dechron,))
+    # values_chron = result_chron.get()
+    # values_dechron = result_dechron.get()
+
+    values_chron = extract_top_words(tokenizer, tagger, partial_chron)
+    values_dechron = extract_top_words(tokenizer, tagger, partial_dechron)
+
+    # update the nouns matrix
+    feed_matrix(nouns_matrix_chron, values_chron['nouns'])
+    feed_matrix(nouns_matrix_dechron, values_dechron['nouns'])
+    feed_matrix(adj_matrix_chron, values_chron['adjectives'])
+    feed_matrix(adj_matrix_dechron, values_dechron['adjectives'])
+    feed_matrix(verbs_matrix_chron, values_chron['verbs'])
+    feed_matrix(verbs_matrix_dechron, values_dechron['verbs'])
+    feed_matrix(pour_matrix_chron, values_chron['pour'])
+    feed_matrix(pour_matrix_dechron, values_dechron['pour'])
+    feed_matrix(contre_matrix_chron, values_chron['contre'])
+    feed_matrix(contre_matrix_dechron, values_dechron['contre'])
+
+    # data for chronological screen
+    date_chron = current_initiative_chron.date
+    top_20_nouns_chron = get_most_frequent_words_tuples(nouns_matrix_chron)[:20]
+    top_20_adj_chron = get_most_frequent_words_tuples(adj_matrix_chron)[:20]
+    top_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[:20]
+
+    # data for dechronological screen
+    date_dechron = current_initiative_dechron.date
+    top_20_nouns_dechron = get_most_frequent_words_tuples(nouns_matrix_dechron)[:20]
+    top_20_adj_dechron = get_most_frequent_words_tuples(adj_matrix_dechron)[:20]
+    top_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[:20]
+
+    # predictions
+    nouns_chron_prediction_list = get_list_predictions(top_20_nouns_chron)
+    adj_chron_prediction_list = get_list_predictions(top_20_adj_chron)
+    verbs_chron_prediction_list = get_list_predictions(top_20_verbs_chron)
+
+    pour_chron_predictions_list = get_opinion_prediction(pour_matrix_chron)
+    contre_chron_predictions_list = get_opinion_prediction(contre_matrix_chron)
+
+    nouns_dechron_prediction_list = get_list_predictions(top_20_nouns_dechron)
+    adj_dechron_prediction_list = get_list_predictions(top_20_adj_dechron)
+    verbs_dechron_prediction_list = get_list_predictions(top_20_verbs_dechron)
+
+    pour_dechron_predictions_list = get_opinion_prediction(pour_matrix_dechron)
+    contre_dechron_predictions_list = get_opinion_prediction(contre_matrix_dechron)
+
+    # print("\nNouns chron predictions = ")
+    # print(nouns_chron_prediction_list)
+
+
 # Reads all words from dataset to get all possible POS
 def get_full_pos_set(dataset_path):
     tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr',
@@ -292,7 +300,7 @@ def get_full_pos_set(dataset_path):
 
 def get_prediction(a, b):
     scale = abs(b - a)
-    return a + fibo_ratios[loop_count % 7] * a
+    return a + fibo_ratios[loop_count % 7] * scale
 
 pos_dict = {
     'ABR': 'abreviation',
