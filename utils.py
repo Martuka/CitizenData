@@ -2,24 +2,10 @@
 
 import operator
 import random
-import treetaggerwrapper
 from collections import Counter, defaultdict
 from multiprocessing.pool import Pool
-
-
-global nouns_chron_prediction_list
-global adj_chron_prediction_list
-global verbs_chron_prediction_list
-
-global pour_chron_predictions_list
-global contre_chron_predictions_list
-
-global nouns_dechron_prediction_list
-global adj_dechron_prediction_list
-global verbs_dechron_prediction_list
-
-global pour_dechron_predictions_list
-global contre_dechron_predictions_list
+import treetaggerwrapper
+import config
 
 
 # dictionaries of type {'word': []}
@@ -50,22 +36,6 @@ def list_the_file(path):
 
 def lowercase_list(lst):
     return [item.lower() for item in lst]
-
-
-def display_initiative_text(initiative):
-    print("display_initiative_text not implemented yet")
-
-
-def display_top_words(top_words):
-    print("display_word_info not implemented yet")
-
-
-def display_date(date):
-    print("Not implemented yet")
-
-
-def display_prediction(text):
-    print("display_prediction not implemented yet")
 
 
 def get_most_frequent_words_tuples(dico):
@@ -119,9 +89,6 @@ def feed_matrix(mtrx, lst):
     """
     for tpl in lst:
         mtrx[tpl[0]].append(tpl[1])
-    # for key, value in mtrx.items():
-    #     if len(value) < loop_count:
-    #         mtrx[key].append(mtrx[key][-1])
     for key, value in mtrx.items():
         if len(value) < loop_count:
             mtrx[key].insert(0, 0)
@@ -170,22 +137,25 @@ def extract_top_words(tokenizer, tagger, partial_list):
     current_date = partial_list[-1].date
 
     # pos tags list from words
-    text_tags = treetaggerwrapper.make_tags(tagger.tag_text(text_tokens))
+    text_tags = treetaggerwrapper.make_tags(tagger.tag_text(text_tokens), True)
     for tag in text_tags:
         if tag.pos == 'NOM':
-            nouns.append(tag.lemma)
+            nouns.append(tag.word)
         elif tag.pos == 'ADJ':
             adjectives.append(tag.lemma)
         elif tag.pos[0:3] == 'VER':
-            verbs.append(tag.lemma)
+            if tag.lemma == "c":
+                pass
+            else:
+                verbs.append(tag.lemma)
         elif tag.pos == 'ADV':
-            adverbs.append(tag.lemma)
+            adverbs.append(tag.word)
         elif tag.pos[0:3] == 'PRP':
-            preps.append(tag.lemma)
+            preps.append(tag.word)
         elif tag.pos == "KON":
-            conj.append(tag.lemma)
+            conj.append(tag.word)
         else:
-            others.append(tag.lemma)
+            others.append(tag.word)
 
     total_word_count = len(text_tokens)
     # # ordered list of tuples (word, frequency), by frequencies
@@ -210,6 +180,15 @@ def extract_top_words(tokenizer, tagger, partial_list):
     result["pour"] = [('pour', for_count/total_word_count)]
     result["contre"] = [('contre', against_count/total_word_count)]
     return result
+
+
+def reduce_too_high_frequencies(mx, dic):
+    """reduce some too frequent words frequencies
+    """
+    for k, v in mx.items():
+        if k in dic.keys():
+            mx[k] = list(map(lambda x: x*dic[k], mx[k]))
+    return mx
 
 
 def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
@@ -254,30 +233,46 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
 
     # data for chronological screen
     date_chron = current_initiative_chron.date
-    top_20_nouns_chron = get_most_frequent_words_tuples(nouns_matrix_chron)[:20]
-    top_20_adj_chron = get_most_frequent_words_tuples(adj_matrix_chron)[:20]
-    top_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[:20]
+
+    # reduce some too frequent words frequencies
+    mx_n = reduce_too_high_frequencies(nouns_matrix_chron, coeff_nouns)
+    with open("Logs.txt", "a") as text_file:
+        print("\nnouns matrix = {}".format(nouns_matrix_chron), file=text_file)
+        print("\nmn matrix = {}".format(mx_n), file=text_file)
+    top_20_nouns_chron = get_most_frequent_words_tuples(mx_n)[:20]
+    mx_a = reduce_too_high_frequencies(adj_matrix_chron, coeff_adj)
+    config.top_20_adj_chron = get_most_frequent_words_tuples(mx_a)[:20]
+
+    # warning, here we take the 20 least used verbs
+    config.top_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[::-1][:20]
 
     # data for dechronological screen
     date_dechron = current_initiative_dechron.date
-    top_20_nouns_dechron = get_most_frequent_words_tuples(nouns_matrix_dechron)[:20]
-    top_20_adj_dechron = get_most_frequent_words_tuples(adj_matrix_dechron)[:20]
-    top_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[:20]
+
+    # reduce some too frequent word frequencies
+    mx_n2 = reduce_too_high_frequencies(nouns_matrix_dechron, coeff_nouns)
+    top_20_nouns_dechron = get_most_frequent_words_tuples(mx_n2)[:20]
+    mx_a2 = reduce_too_high_frequencies(adj_matrix_dechron, coeff_adj)
+    config.top_20_adj_dechron = get_most_frequent_words_tuples(mx_a2)[:20]
+
+    # warning, here we take the 20 least used verbs
+    config.top_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[::-1][:20]
 
     # predictions
-    nouns_chron_prediction_list = get_list_predictions(top_20_nouns_chron)
-    adj_chron_prediction_list = get_list_predictions(top_20_adj_chron)
-    verbs_chron_prediction_list = get_list_predictions(top_20_verbs_chron)
+    # global nouns_chron_prediction_list
+    config.nouns_chron_predictions_list = get_list_predictions(top_20_nouns_chron)
+    config.adj_chron_predictions_list = get_list_predictions(config.top_20_adj_chron)
+    config.verbs_chron_predictions_list = get_list_predictions(config.top_20_verbs_chron)
 
-    pour_chron_predictions_list = get_opinion_prediction(pour_matrix_chron)
-    contre_chron_predictions_list = get_opinion_prediction(contre_matrix_chron)
+    config.pour_chron_predictions_list = get_opinion_prediction(pour_matrix_chron)
+    config.contre_chron_predictions_list = get_opinion_prediction(contre_matrix_chron)
 
-    nouns_dechron_prediction_list = get_list_predictions(top_20_nouns_dechron)
-    adj_dechron_prediction_list = get_list_predictions(top_20_adj_dechron)
-    verbs_dechron_prediction_list = get_list_predictions(top_20_verbs_dechron)
+    config.nouns_dechron_predictions_list = get_list_predictions(top_20_nouns_dechron)
+    config.adj_dechron_predictions_list = get_list_predictions(config.top_20_adj_dechron)
+    config.verbs_dechron_predictions_list = get_list_predictions(config.top_20_verbs_dechron)
 
-    pour_dechron_predictions_list = get_opinion_prediction(pour_matrix_dechron)
-    contre_dechron_predictions_list = get_opinion_prediction(contre_matrix_dechron)
+    config.pour_dechron_predictions_list = get_opinion_prediction(pour_matrix_dechron)
+    config.contre_dechron_predictions_list = get_opinion_prediction(contre_matrix_dechron)
 
     # print("\nNouns chron predictions = ")
     # print(nouns_chron_prediction_list)
@@ -300,7 +295,8 @@ def get_full_pos_set(dataset_path):
 
 def get_prediction(a, b):
     scale = abs(b - a)
-    return a + fibo_ratios[loop_count % 7] * scale
+    return a + fibo_ratios[random.randrange(0, 19)] * scale
+
 
 pos_dict = {
     'ABR': 'abreviation',
@@ -342,5 +338,47 @@ fibo_ratios = {
     3: 0.5,
     4: 0.618,
     5: 0.764,
-    6: 1
+    6: 1,
+    7: 1.236,
+    8: 1.382,
+    9: 1.5,
+    10: 1.618,
+    11: 1.764,
+    12: 2,
+    13: 2.236,
+    14: 2.382,
+    15: 2.5,
+    16: 2.618,
+    17: 2.764,
+    18: 3
+}
+
+coeff_nouns = {
+    'confédération': 0.1,
+    'cantons': 0.5,
+    'droit': 0.3,
+    'mesures': 0.2,
+    'personnes': 0.8,
+    'impôt': 0.5,
+    'cas': 0.1,
+    'protection': 0.8,
+    'loi': 0.5,
+    'assurance': 0.3,
+    'constitution': 0.1,
+    'législation': 0.1,
+    'disposition': 0.1
+}
+
+coeff_adj = {
+    'fédéral': 0.1,
+    'fédérale': 0.1,
+    'suisse': 0.1,
+    'autres': 0.1,
+    'remplacé': 0.1,
+    'nationale': 0.5,
+    'générale': 0.1,
+    'obligatoire': 0.5,
+    'public': 0.8,
+    'nécessaires': 0.7,
+    'national': 0.1
 }
