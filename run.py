@@ -56,20 +56,31 @@ def main():
     # text analyze and predictions
     for i in range(len(initiatives_list_chron)):
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
-        initiative = initiatives_list_dechron[i]
+        initiative = initiatives_list_chron[i]
         gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
         gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
         gui.display_year(gui.win_date, initiative.date)
-        gui.print_noun_values(gui.inner_nouns_win, config.nouns_dechron_predictions_list)
-        gui.print_opinion_window(gui.win_op, config.pour_dechron_predictions_list, config.contre_dechron_predictions_list)
-        gui.print_verb_adj_window(gui.win_adj, config.top_20_verbs_dechron, config.top_20_adj_dechron)
+        gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
+        gui.print_opinion_window(gui.win_op, config.pour_chron_predictions_list, config.contre_chron_predictions_list)
+        gui.print_verb_adj_window(gui.win_adj, config.top_20_verbs_chron, config.top_20_adj_chron)
+
 
         # generate new initiative titles
-        titles = generator.generate_initiative()
-
+        # TODO put list values
+        nouns = [w for w, p in config.nouns_chron_predictions_list[:5] + \
+            config.nouns_dechron_predictions_list[::-1][:5]]
+        adjs = [a for a, p in config.top_20_adj_chron[:5]]
+        verbs = [v for v, p in config.top_20_verbs_chron[:5]]
+        with open("logs.txt", "a") as text_file:
+            print("\nNouns list = {}".format(nouns), file=text_file)
+            print("\nAdjs list = {}".format(adjs), file=text_file)
+            print("\nVerbs list = {}".format(verbs), file=text_file)
+        titles = generator.generate_initiative(nouns, adjs, verbs)
+        with open("generation.txt", "a") as text_file:
+            print("\n{}".format(titles), file=text_file)
 
         # pause to give time to read between initiatives
-        # time.sleep(4)
+        time.sleep(20)
 
 if __name__ == "__main__":
     main()

@@ -142,7 +142,7 @@ def extract_top_words(tokenizer, tagger, partial_list):
         if tag.pos == 'NOM':
             nouns.append(tag.word)
         elif tag.pos == 'ADJ':
-            adjectives.append(tag.lemma)
+            adjectives.append(tag.word)
         elif tag.pos[0:3] == 'VER':
             if tag.lemma == "c":
                 pass
@@ -236,9 +236,9 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
 
     # reduce some too frequent words frequencies
     mx_n = reduce_too_high_frequencies(nouns_matrix_chron, coeff_nouns)
-    with open("Logs.txt", "a") as text_file:
-        print("\nnouns matrix = {}".format(nouns_matrix_chron), file=text_file)
-        print("\nmn matrix = {}".format(mx_n), file=text_file)
+    # with open("logs.txt", "a") as text_file:
+    #     print("\nnouns matrix = {}".format(nouns_matrix_chron), file=text_file)
+    #     print("\nmn matrix = {}".format(mx_n), file=text_file)
     top_20_nouns_chron = get_most_frequent_words_tuples(mx_n)[:20]
     mx_a = reduce_too_high_frequencies(adj_matrix_chron, coeff_adj)
     config.top_20_adj_chron = get_most_frequent_words_tuples(mx_a)[:20]
@@ -296,10 +296,6 @@ def get_full_pos_set(dataset_path):
 def get_prediction(a, b):
     scale = abs(b - a)
     return a + fibo_ratios[random.randrange(0, 19)] * scale
-
-
-def select_pred_words(noun_list, adj_list, verb_list):
-
 
 
 pos_dict = {
