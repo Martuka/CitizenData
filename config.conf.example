@@ -1,3 +1,4 @@
 [DEFAULT]
 dataset_dechron_file = Dataset/Initiatives_Populaires_2016_1893.txt
 tagdir = /path/to/tree-tagger
+grammar_file = data/citizen_grammar.cfg

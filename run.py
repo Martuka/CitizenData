@@ -9,6 +9,7 @@ from initiative import Initiative
 import utils
 import gui
 import config
+import generator
 
 
 def main():
@@ -20,6 +21,7 @@ def main():
     conf.read('config.conf')
     dataset_dechron_file = conf['DEFAULT']['dataset_dechron_file']
     tagdir = conf['DEFAULT']['tagdir']
+    grammar_file = conf['DEFAULT']['grammar_file']
 
     # tokenizer to split text by sentences
     # tokenizer = nltk.data.load('tokenizers/punkt/PY3/french.pickle')
@@ -61,6 +63,10 @@ def main():
         gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
         gui.print_opinion_window(gui.win_op, config.pour_chron_predictions_list, config.contre_chron_predictions_list)
         gui.print_verb_adj_window(gui.win_adj, config.top_20_verbs_chron, config.top_20_adj_chron)
+
+        # generate new initiative titles
+        titles = generator.generate_initiative()
+
 
         # pause to give time to read between initiatives
         time.sleep(4)

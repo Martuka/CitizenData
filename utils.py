@@ -298,6 +298,10 @@ def get_prediction(a, b):
     return a + fibo_ratios[random.randrange(0, 19)] * scale
 
 
+def select_pred_words(noun_list, adj_list, verb_list):
+
+
+
 pos_dict = {
     'ABR': 'abreviation',
     'ADJ': 'adjectif',
@@ -381,5 +385,5 @@ coeff_adj = {
     'obligatoire': 0.5,
     'public': 0.8,
     'nécessaires': 0.7,
-    'national': 0.1
+    "national": 0.1
 }
