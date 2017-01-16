@@ -77,7 +77,8 @@ def main():
             print("\nVerbs list = {}".format(verbs), file=text_file)
         titles = generator.generate_initiative(nouns, adjs, verbs)
         with open("generation.txt", "a") as text_file:
-            print("\n{}".format(titles), file=text_file)
+            for sentence in titles:
+                print("\n{}".format(' '.join(sentence)), file=text_file)
 
         # pause to give time to read between initiatives
         time.sleep(20)
