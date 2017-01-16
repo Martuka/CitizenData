@@ -56,7 +56,7 @@ def main():
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
         initiative = initiatives_list_chron[i]
         gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
-        gui.print_srt(gui.inner_text_win, 3, 1, initiative.content, True)
+        gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
         gui.display_year(gui.win_date, initiative.date)
         gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
         gui.print_opinion_window(gui.win_op, config.pour_chron_predictions_list, config.contre_chron_predictions_list)
