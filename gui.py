@@ -309,7 +309,7 @@ def print_noun_values(win, lst):
 def print_opinion_window(win, lst1, lst2):
     h, w = win.getmaxyx()
     len_x = 2*w//3
-    pos_y = (h - 4)//2 - 1
+    pos_y = (h - 4)//2 - 2
     color = win.getbkgd()
     val_space = 15
     tab = w//6
@@ -318,8 +318,11 @@ def print_opinion_window(win, lst1, lst2):
     space_for = len_x - for_len - val_space
     space_ag = len_x - ag_len - val_space
     win.clear()
+
+    # redraw the border
     for i in range(0, w):
         win.addch(0, i, curses.ACS_HLINE)
+
     win.addstr(pos_y, tab + 2, lst1[0] + space_for*" " + "[  ", color)
     win.addstr(pos_y, tab + 2 + for_len + space_for + 3, "{0:.6f}".format(lst1[1][0]) + "%", curses.color_pair(9))
     win.addstr(pos_y, tab + 2 + for_len + space_for + 3 + 9, "]", color)

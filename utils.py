@@ -366,7 +366,8 @@ coeff_nouns = {
     'assurance': 0.3,
     'constitution': 0.1,
     'législation': 0.1,
-    'disposition': 0.1
+    'disposition': 0.05,
+    'administration': 0.1
 }
 
 coeff_adj = {
