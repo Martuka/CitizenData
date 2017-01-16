@@ -359,11 +359,11 @@ fibo_ratios = {
 
 coeff_nouns = {
     'confédération': 0.1,
-    'cantons': 0.5,
+    'cantons': 0.05,
     'droit': 0.3,
     'mesures': 0.2,
     'personnes': 0.8,
-    'impôt': 0.5,
+    'impôt': 0.05,
     'cas': 0.1,
     'protection': 0.8,
     'loi': 0.5,
@@ -371,7 +371,39 @@ coeff_nouns = {
     'constitution': 0.1,
     'législation': 0.1,
     'disposition': 0.05,
-    'administration': 0.1
+    'prix': 0.1,
+    'conseil': 0.1,
+    'dispositions': 0.05,
+    'impôts': 0.1,
+    'droits': 0.1,
+    'suisse': 0.1,
+    'article': 0.1,
+    'personnes': 0.1,
+    'citoyens': 0.05,
+    'pays': 0.1,
+    'service': 0.1,
+    'peuple': 0.1,
+    'travail': 0.1,
+    'ans': 0.1,
+    'revenu': 0.1,
+    'membres': 0.1,
+    'durée': 0.1,
+    'protection': 0.1,
+    'autorisation': 0.1,
+    'voie': 0.1,
+    'taux': 0.1,
+    'base': 0.1,
+    'environnement': 0.1,
+    'population': 0.1,
+    'prestations': 0.05,
+    'salaires': 0.1,
+    'salaires': 0.1,
+    'population': 0.1,
+    'territoire': 0.1,
+    "l'environnement": 0.05,
+    "l'impôt": 0.1
+
+
 }
 
 coeff_adj = {
