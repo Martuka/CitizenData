@@ -261,6 +261,7 @@ def display_year(window, string):
 
 def print_srt(win, y, x, string, string2):
     win.clear()
+    h, w = win.getmaxyx()
     win.addstr(y, x, string, win.getbkgd())
     win.addstr(y + 2, x, string2, win.getbkgd())
     win.noutrefresh()

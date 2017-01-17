@@ -58,11 +58,6 @@ def main():
     for i in range(len(initiatives_list_chron)):
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
         initiative = initiatives_list_chron[i]
-        # utils.log("initiatives.txt", "Initiative number " + str(i) +" = ", initiative)
-        # gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
-        # utils.log("initiatives-titles.txt", "Initiative number " + str(i) +" = ", initiative.title)
-        # gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
-        # utils.log("initiatives-content.txt", "Initiative number " + str(i) +" = ", initiative.content)
         gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, initiative.content)
         gui.display_year(gui.win_date, initiative.date)
 
@@ -74,17 +69,17 @@ def main():
 
         # generate new initiative titles with most or less used words
         nouns = [w for w, p in config.nouns_chron_predictions_list[:3] + \
-            config.nouns_dechron_predictions_list[::-1][:2]]
-        adjs = [a for a, p in config.top_20_adj_chron[:2] + \
-            config.top_20_adj_dechron[:3]]
+            config.nouns_dechron_predictions_list[::-1][:3]]
+        adjs = [a for a, p in config.top_20_adj_chron[:5] + \
+            config.bottom_20_adj_dechron[:5]]
         verbs = [v for v, p in config.bottom_20_verbs_chron[:5] + \
             config.bottom_20_verbs_dechron[:5]]
-        # with open("logs.txt", "a") as text_file:
-        #     print("\nNouns list = {}".format(nouns), file=text_file)
-        #     print("\nAdjs list = {}".format(adjs), file=text_file)
-        #     print("\nVerbs list = {}".format(verbs), file=text_file)
+        with open("listes.txt", "a") as text_file:
+            print("\nNouns list = {}".format(nouns), file=text_file)
+            print("\nAdjs list = {}".format(adjs), file=text_file)
+            print("\nVerbs list = {}".format(verbs), file=text_file)
         titles = generator.generate_initiative(nouns, adjs, verbs)
-        with open("generation.txt", "a") as text_file:
+        with open("generation.txt", "w") as text_file:
             for sentence in titles:
                 print("{}".format(' '.join(sentence)), file=text_file)
 

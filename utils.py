@@ -161,10 +161,16 @@ def extract_top_words(tokenizer, tagger, partial_list):
     # # ordered list of tuples (word, frequency), by frequencies
     # words_frequency = sort_list_of_tuples(text_tokens)
     # ordered list of tuples (nouns, freq)
+    for n in wrong_nouns:
+        nouns = list(filter((n).__ne__, nouns))
     ordered_nouns = sort_list_of_tuples(nouns, total_word_count)
     # ordered list of tuples (adjectives, freq)
+    for a in wrong_adj:
+        adjectives = list(filter((a).__ne__, adjectives))
     ordered_adjectives = sort_list_of_tuples(adjectives, total_word_count)
     # ordered list of tuples (verbs, freq)
+    for v in wrong_verbs:
+        verbs = list(filter((v).__ne__, verbs))
     ordered_verbs = sort_list_of_tuples(verbs, total_word_count)
 
     # make a list of words of interest (nouns, adjectives, verbs)
@@ -422,3 +428,9 @@ coeff_adj = {
     'nécessaires': 0.7,
     "national": 0.1
 }
+
+wrong_adj = ['s’applique', 'l’entretien']
+
+wrong_nouns = ['d’abattage']
+
+wrong_verbs = ['payer|payer', 'd’exploitation']

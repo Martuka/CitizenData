@@ -78,7 +78,7 @@ S -> PRP DET NOM CAT NOM ADJ ET ADJ
 
     grammar = CFG.fromstring(open("data/citizen_grammar.cfg", 'r').read())
 
-    utils.log("logs.txt", "grammar = ", grammar)
+    # utils.log("logs.txt", "grammar = ", grammar)
 
     return grammar
 
