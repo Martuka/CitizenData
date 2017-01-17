@@ -259,6 +259,13 @@ def print_srt(win, y, x, string, title):
         win.noutrefresh()
         curses.doupdate()
 
+# def print_srt(win, y, x, string, string2):
+#     win.clear()
+#     win.addstr(y, x, string, win.getbkgd())
+#     win.addstr(y + 2, x, string, win.getbkgd())
+#     win.noutrefresh()
+#     curses.doupdate()
+
 
 def print_str(win, y, x, string, color, s_height, s_len):
     win.addstr(y, x, string, color)

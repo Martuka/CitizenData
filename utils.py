@@ -244,7 +244,7 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
     config.top_20_adj_chron = get_most_frequent_words_tuples(mx_a)[:20]
 
     # warning, here we take the 20 least used verbs
-    config.top_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[::-1][:20]
+    config.bottom_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[::-1][:20]
 
     # data for dechronological screen
     date_dechron = current_initiative_dechron.date
@@ -256,20 +256,20 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
     config.top_20_adj_dechron = get_most_frequent_words_tuples(mx_a2)[:20]
 
     # warning, here we take the 20 least used verbs
-    config.top_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[::-1][:20]
+    config.bottom_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[::-1][:20]
 
     # predictions
     # global nouns_chron_prediction_list
     config.nouns_chron_predictions_list = get_list_predictions(top_20_nouns_chron)
     config.adj_chron_predictions_list = get_list_predictions(config.top_20_adj_chron)
-    config.verbs_chron_predictions_list = get_list_predictions(config.top_20_verbs_chron)
+    config.verbs_chron_predictions_list = get_list_predictions(config.bottom_20_verbs_chron)
 
     config.pour_chron_predictions_list = get_opinion_prediction(pour_matrix_chron)
     config.contre_chron_predictions_list = get_opinion_prediction(contre_matrix_chron)
 
     config.nouns_dechron_predictions_list = get_list_predictions(top_20_nouns_dechron)
     config.adj_dechron_predictions_list = get_list_predictions(config.top_20_adj_dechron)
-    config.verbs_dechron_predictions_list = get_list_predictions(config.top_20_verbs_dechron)
+    config.verbs_dechron_predictions_list = get_list_predictions(config.bottom_20_verbs_dechron)
 
     config.pour_dechron_predictions_list = get_opinion_prediction(pour_matrix_dechron)
     config.contre_dechron_predictions_list = get_opinion_prediction(contre_matrix_dechron)
@@ -296,6 +296,11 @@ def get_full_pos_set(dataset_path):
 def get_prediction(a, b):
     scale = abs(b - a)
     return a + fibo_ratios[random.randrange(0, 19)] * scale
+
+
+def log(t, s):
+    with open("logs.txt", "a") as log_file:
+        print('{} :: {}'.format(t, s), file=log_file)
 
 
 pos_dict = {

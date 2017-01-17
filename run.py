@@ -53,28 +53,35 @@ def main():
     initiatives_list_dechron = sorted(initiatives_list, key=lambda initiative: initiative.date, reverse=True)
     initiatives_list_chron = initiatives_list_dechron[::-1]
 
+    # utils.log("initiative list = ", initiatives_list_chron[:5])
     # text analyze and predictions
     for i in range(len(initiatives_list_chron)):
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
         initiative = initiatives_list_chron[i]
         gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
         gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
+        # gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, initiative.content)
         gui.display_year(gui.win_date, initiative.date)
+
         gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
+
         gui.print_opinion_window(gui.win_op, config.pour_chron_predictions_list, config.contre_chron_predictions_list)
-        gui.print_verb_adj_window(gui.win_adj, config.top_20_verbs_chron, config.top_20_adj_chron)
+
+        gui.print_verb_adj_window(gui.win_adj, config.bottom_20_verbs_chron, config.top_20_adj_chron)
 
 
         # generate new initiative titles
         # TODO put list values
-        nouns = [w for w, p in config.nouns_chron_predictions_list[:5] + \
-            config.nouns_dechron_predictions_list[::-1][:5]]
-        adjs = [a for a, p in config.top_20_adj_chron[:5]]
-        verbs = [v for v, p in config.top_20_verbs_chron[:5]]
-        with open("logs.txt", "a") as text_file:
-            print("\nNouns list = {}".format(nouns), file=text_file)
-            print("\nAdjs list = {}".format(adjs), file=text_file)
-            print("\nVerbs list = {}".format(verbs), file=text_file)
+        nouns = [w for w, p in config.nouns_chron_predictions_list[:3] + \
+            config.nouns_dechron_predictions_list[::-1][:2]]
+        adjs = [a for a, p in config.top_20_adj_chron[:2] + \
+            config.top_20_adj_dechron[:3]]
+        verbs = [v for v, p in config.bottom_20_verbs_chron[:5] + \
+            config.bottom_20_verbs_dechron[:5]]
+        # with open("logs.txt", "a") as text_file:
+        #     print("\nNouns list = {}".format(nouns), file=text_file)
+        #     print("\nAdjs list = {}".format(adjs), file=text_file)
+        #     print("\nVerbs list = {}".format(verbs), file=text_file)
         titles = generator.generate_initiative(nouns, adjs, verbs)
         with open("generation.txt", "a") as text_file:
             for sentence in titles:
