@@ -57,15 +57,16 @@ def main():
     # text analyze and predictions
     for i in range(len(initiatives_list_chron)):
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
-        initiative = initiatives_list_chron[i]
+
+        initiative = initiatives_list_dechron[i]
         gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, initiative.content)
         gui.display_year(gui.win_date, initiative.date)
 
-        gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
+        gui.print_noun_values(gui.inner_nouns_win, config.nouns_dechron_predictions_list)
 
-        gui.print_opinion_window(gui.win_op, config.pour_chron_predictions_list, config.contre_chron_predictions_list)
+        gui.print_opinion_window(gui.win_op, config.pour_dechron_predictions_list, config.contre_dechron_predictions_list)
 
-        gui.print_verb_adj_window(gui.win_adj, config.bottom_20_verbs_chron, config.top_20_adj_chron)
+        gui.print_verb_adj_window(gui.win_adj, config.bottom_20_verbs_dechron, config.top_20_adj_dechron)
 
         # generate new initiative titles with most or less used words
         nouns = [w for w, p in config.nouns_chron_predictions_list[:3] + \
