@@ -255,6 +255,8 @@ def random_x_list(n, l):
         if k not in res:
             res.append(k)
             i += 1
+
+    log("logs.txt", "Random numbers = ", res)
     return res
 
 
@@ -274,8 +276,8 @@ def pretty_quit(err):
     sys.exit(0)
 
 
-def log(t, s):
-    with open("logs.txt", "a") as log_file:
+def log(filename, t, s):
+    with open(filename, "a") as log_file:
         print('{} :: {}'.format(t, s), file=log_file)
 
 
