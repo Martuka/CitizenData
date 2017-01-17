@@ -298,8 +298,8 @@ def get_prediction(a, b):
     return a + fibo_ratios[random.randrange(0, 19)] * scale
 
 
-def log(t, s):
-    with open("logs.txt", "a") as log_file:
+def log(filename, t, s):
+    with open(filename, "a") as log_file:
         print('{} :: {}'.format(t, s), file=log_file)
 
 

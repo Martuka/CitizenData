@@ -58,9 +58,12 @@ def main():
     for i in range(len(initiatives_list_chron)):
         utils.treat_current_dataset(tokenizer, tagger, initiatives_list_chron[0:i+1], initiatives_list_dechron[0:i+1])
         initiative = initiatives_list_chron[i]
-        gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
-        gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
-        # gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, initiative.content)
+        # utils.log("initiatives.txt", "Initiative number " + str(i) +" = ", initiative)
+        # gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, False)
+        # utils.log("initiatives-titles.txt", "Initiative number " + str(i) +" = ", initiative.title)
+        # gui.print_srt(gui.inner_text_win, 4, 1, initiative.content, True)
+        # utils.log("initiatives-content.txt", "Initiative number " + str(i) +" = ", initiative.content)
+        gui.print_srt(gui.inner_text_win, 2, 1, initiative.title, initiative.content)
         gui.display_year(gui.win_date, initiative.date)
 
         gui.print_noun_values(gui.inner_nouns_win, config.nouns_chron_predictions_list)
@@ -92,6 +95,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# with open("Logs.txt", "a") as text_file:
-#     print("\nPour prediction list: {}".format(lst1), file=text_file)
