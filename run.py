@@ -72,9 +72,7 @@ def main():
 
         gui.print_verb_adj_window(gui.win_adj, config.bottom_20_verbs_chron, config.top_20_adj_chron)
 
-
-        # generate new initiative titles
-        # TODO put list values
+        # generate new initiative titles with most or less used words
         nouns = [w for w, p in config.nouns_chron_predictions_list[:3] + \
             config.nouns_dechron_predictions_list[::-1][:2]]
         adjs = [a for a, p in config.top_20_adj_chron[:2] + \

@@ -13,6 +13,14 @@ top_20_adj_chron = []
 top_20_verbs_dechron = []
 top_20_adj_dechron = []
 
+bottom_20_nouns_chron = []
+bottom_20_nouns_dechron = []
+
+bottom_20_adj_chron = []
+bottom_20_adj_dechron = []
+bottom_20_verbs_chron = []
+bottom_20_verbs_dechron = []
+
 glyph = {
     '0': [" ##### ",
           " #   # ",

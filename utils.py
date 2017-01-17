@@ -242,6 +242,7 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
     top_20_nouns_chron = get_most_frequent_words_tuples(mx_n)[:20]
     mx_a = reduce_too_high_frequencies(adj_matrix_chron, coeff_adj)
     config.top_20_adj_chron = get_most_frequent_words_tuples(mx_a)[:20]
+    config.bottom_20_adj_chron = get_most_frequent_words_tuples(mx_a)[::-1][:20]
 
     # warning, here we take the 20 least used verbs
     config.bottom_20_verbs_chron = get_most_frequent_words_tuples(verbs_matrix_chron)[::-1][:20]
@@ -254,6 +255,7 @@ def treat_current_dataset(tokenizer, tagger, partial_chron, partial_dechron):
     top_20_nouns_dechron = get_most_frequent_words_tuples(mx_n2)[:20]
     mx_a2 = reduce_too_high_frequencies(adj_matrix_dechron, coeff_adj)
     config.top_20_adj_dechron = get_most_frequent_words_tuples(mx_a2)[:20]
+    config.bottom_20_adj_dechron = get_most_frequent_words_tuples(mx_a2)[::-1][:20]
 
     # warning, here we take the 20 least used verbs
     config.bottom_20_verbs_dechron = get_most_frequent_words_tuples(verbs_matrix_dechron)[::-1][:20]
